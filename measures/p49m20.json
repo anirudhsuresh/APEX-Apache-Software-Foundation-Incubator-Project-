@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 28 2007",
+    "num_senders": 17,
+    "incubation_time": 30,
+    "status": "Graduated",
+    "intro": "An implementation of the Atom Syndication Format and Atom Publishing Protocol.",
+    "end_time": "Nov 08 2008",
+    "start_time": "Jun 06 2006",
+    "commit_per_dev": 265.5,
+    "num_commits": 531,
+    "to": "Jan 27 2008",
+    "link": "http://incubator.apache.org/projects/abdera.html",
+    "num_committers": 2,
+    "email_per_dev": 5.35,
+    "project_name": "Abdera",
+    "num_emails": 91
+}

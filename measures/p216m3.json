@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Aug 18 2013",
+    "num_senders": 55,
+    "incubation_time": 9,
+    "status": "Graduated",
+    "intro": "Spark is an open source system for fast and flexible large-scale data analysis. Spark provides a general purpose runtime that supports low-latency execution in several forms.",
+    "end_time": "Feb 19 2014",
+    "start_time": "Jun 19 2013",
+    "commit_per_dev": 166.94,
+    "num_commits": 2671,
+    "to": "Sep 17 2013",
+    "link": "http://incubator.apache.org/projects/spark.html",
+    "num_committers": 16,
+    "email_per_dev": 4.35,
+    "project_name": "Spark",
+    "num_emails": 239
+}

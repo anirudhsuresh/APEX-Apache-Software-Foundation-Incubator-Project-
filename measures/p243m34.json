@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jun 23 2011",
+    "num_senders": 8,
+    "incubation_time": 46,
+    "status": "Graduated",
+    "intro": "Virtual Computing Lab. Framework for creating, dispensing and running virtual images.",
+    "end_time": "Jun 20 2012",
+    "start_time": "Oct 06 2008",
+    "commit_per_dev": 12.0,
+    "num_commits": 24,
+    "to": "Jul 23 2011",
+    "link": "http://incubator.apache.org/projects/vcl.html",
+    "num_committers": 2,
+    "email_per_dev": 2.38,
+    "project_name": "VCL",
+    "num_emails": 19
+}

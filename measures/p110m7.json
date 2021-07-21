@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Billie Rinaldi)",
+    "from": "Nov 13 2016",
+    "num_senders": 2,
+    "incubation_time": 15,
+    "status": "Graduated",
+    "intro": "Fluo is a distributed system for incrementally processing large data sets stored in Accumulo.",
+    "end_time": "Jul 19 2017",
+    "start_time": "May 17 2016",
+    "commit_per_dev": 38.0,
+    "num_commits": 38,
+    "to": "Dec 13 2016",
+    "link": "http://incubator.apache.org/projects/fluo.html",
+    "num_committers": 1,
+    "email_per_dev": 1.0,
+    "project_name": "Fluo",
+    "num_emails": 2
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Roman Shaposhnik)",
+    "from": "Jun 27 2016",
+    "num_senders": 15,
+    "incubation_time": 33,
+    "status": "Retired",
+    "intro": "Quickstep is a high-performance database engine. Retired for lack of activity",
+    "end_time": "Nov 30 2018",
+    "start_time": "Mar 29 2016",
+    "commit_per_dev": 196.08,
+    "num_commits": 2549,
+    "to": "Jul 27 2016",
+    "link": "http://incubator.apache.org/projects/quickstep.html",
+    "num_committers": 13,
+    "email_per_dev": 8.6,
+    "project_name": "Quickstep",
+    "num_emails": 129
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Jakob Homan)",
+    "from": "Nov 22 2014",
+    "num_senders": 35,
+    "incubation_time": 19,
+    "status": "Graduated",
+    "intro": "    Samza is a stream processing system for running continuous computation on    infinite streams of data.",
+    "end_time": "Jan 21 2015",
+    "start_time": "Jul 30 2013",
+    "commit_per_dev": 157.25,
+    "num_commits": 629,
+    "to": "Dec 22 2014",
+    "link": "http://incubator.apache.org/projects/samza.html",
+    "num_committers": 4,
+    "email_per_dev": 4.03,
+    "project_name": "Samza",
+    "num_emails": 141
+}

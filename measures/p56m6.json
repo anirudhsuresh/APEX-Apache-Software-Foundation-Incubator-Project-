@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jan 27 2012",
+    "num_senders": 4,
+    "incubation_time": 28,
+    "status": "Graduated",
+    "intro": "Ambari is a monitoring, administration and lifecycle management project for Apache Hadoop clusters. (Formerly known as HMS)",
+    "end_time": "Nov 20 2013",
+    "start_time": "Aug 30 2011",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Feb 26 2012",
+    "link": "http://incubator.apache.org/projects/ambari.html",
+    "num_committers": 0,
+    "email_per_dev": 0.5,
+    "project_name": "Ambari",
+    "num_emails": 2
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Apr 25 2010",
+    "num_senders": 2,
+    "incubation_time": 54,
+    "status": "Graduated",
+    "intro": "A cross-platform, language- and transport-independent framework for building and consuming network services.",
+    "end_time": "Jan 16 2013",
+    "start_time": "Sep 02 2008",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "May 25 2010",
+    "link": "http://incubator.apache.org/projects/etch.html",
+    "num_committers": 0,
+    "email_per_dev": 0.5,
+    "project_name": "Etch",
+    "num_emails": 1
+}

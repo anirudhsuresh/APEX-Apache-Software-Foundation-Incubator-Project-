@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (P. Taylor Goetz)",
+    "from": "Sep 20 2017",
+    "num_senders": 4,
+    "incubation_time": 29,
+    "status": "Retired",
+    "intro": "Gossip is an implementation of the Gossip Protocol. Retired",
+    "end_time": "Aug 21 2018",
+    "start_time": "Apr 28 2016",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Oct 20 2017",
+    "link": "http://incubator.apache.org/projects/gossip.html",
+    "num_committers": 0,
+    "email_per_dev": 1.75,
+    "project_name": "Gossip",
+    "num_emails": 7
+}

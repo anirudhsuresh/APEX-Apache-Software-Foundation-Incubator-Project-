@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Aug 13 2010",
+    "num_senders": 9,
+    "incubation_time": 55,
+    "status": "Retired",
+    "intro": "NPanday allows projects using the .NET framework to be built with Apache Maven. Retired for lack of activity",
+    "end_time": "Feb 08 2015",
+    "start_time": "Aug 13 2010",
+    "commit_per_dev": 12.0,
+    "num_commits": 12,
+    "to": "Sep 12 2010",
+    "link": "http://incubator.apache.org/projects/npanday.html",
+    "num_committers": 1,
+    "email_per_dev": 2.56,
+    "project_name": "NPanday",
+    "num_emails": 23
+}

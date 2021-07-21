@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 27 2009",
+    "num_senders": 54,
+    "incubation_time": 14,
+    "status": "Graduated",
+    "intro": "Cassandra",
+    "end_time": "Feb 17 2010",
+    "start_time": "Jan 01 2009",
+    "commit_per_dev": 109.17,
+    "num_commits": 655,
+    "to": "Jan 26 2010",
+    "link": "http://incubator.apache.org/projects/cassandra.html",
+    "num_committers": 6,
+    "email_per_dev": 10.02,
+    "project_name": "Cassandra",
+    "num_emails": 541
+}

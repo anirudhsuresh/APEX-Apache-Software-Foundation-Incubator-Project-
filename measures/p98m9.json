@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Justin Mclean)",
+    "from": "Oct 14 2018",
+    "num_senders": 21,
+    "incubation_time": 16,
+    "status": "Graduated",
+    "intro": "Dubbo is a high-performance, lightweight, java based RPC framework.",
+    "end_time": "May 15 2019",
+    "start_time": "Feb 16 2018",
+    "commit_per_dev": 6.0,
+    "num_commits": 6,
+    "to": "Nov 13 2018",
+    "link": "http://incubator.apache.org/projects/dubbo.html",
+    "num_committers": 1,
+    "email_per_dev": 7.19,
+    "project_name": "Dubbo",
+    "num_emails": 151
+}

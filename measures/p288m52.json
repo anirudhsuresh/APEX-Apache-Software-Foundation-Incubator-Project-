@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Oct 09 2015",
+    "num_senders": 2,
+    "incubation_time": 90,
+    "status": "Retired",
+    "intro": "Java modules that allow programmatic creation, scanning and manipulation of OpenDocument Format (ISO/IEC 26300 == ODF) documents Retired from the ASF and moved to The Document Foundation",
+    "end_time": "Nov 27 2018",
+    "start_time": "Aug 01 2011",
+    "commit_per_dev": 6.0,
+    "num_commits": 6,
+    "to": "Nov 08 2015",
+    "link": "http://incubator.apache.org/projects/odftoolkit.html",
+    "num_committers": 1,
+    "email_per_dev": 0.5,
+    "project_name": "ODF Toolkit",
+    "num_emails": 1
+}

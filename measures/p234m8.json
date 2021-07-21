@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Feb 07 2017",
+    "num_senders": 22,
+    "incubation_time": 23,
+    "status": "Graduated",
+    "intro": "Apache Traffic Control can be used to build, monitor, configure, and provision a large-scale content delivery network (CDN).",
+    "end_time": "May 16 2018",
+    "start_time": "Jul 12 2016",
+    "commit_per_dev": 46.83,
+    "num_commits": 562,
+    "to": "Mar 09 2017",
+    "link": "http://incubator.apache.org/projects/trafficcontrol.html",
+    "num_committers": 12,
+    "email_per_dev": 3.36,
+    "project_name": "Traffic Control",
+    "num_emails": 74
+}

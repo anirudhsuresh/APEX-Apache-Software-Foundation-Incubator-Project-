@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Sep 18 2004",
+    "num_senders": 17,
+    "incubation_time": 15,
+    "status": "Graduated",
+    "intro": "Extensible Java application framework with an integrated metadata-driven programming model for web services, web applications, and resource access",
+    "end_time": "Jul 18 2005",
+    "start_time": "May 21 2004",
+    "commit_per_dev": 645.2,
+    "num_commits": 6452,
+    "to": "Oct 18 2004",
+    "link": "http://incubator.apache.org/projects/beehive.html",
+    "num_committers": 10,
+    "email_per_dev": 2.65,
+    "project_name": "Beehive",
+    "num_emails": 45
+}

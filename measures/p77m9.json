@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 26 2009",
+    "num_senders": 22,
+    "incubation_time": 10,
+    "status": "Graduated",
+    "intro": "Chemistry",
+    "end_time": "Feb 16 2010",
+    "start_time": "Apr 30 2009",
+    "commit_per_dev": 97.0,
+    "num_commits": 291,
+    "to": "Jan 25 2010",
+    "link": "http://incubator.apache.org/projects/chemistry.html",
+    "num_committers": 3,
+    "email_per_dev": 2.77,
+    "project_name": "Chemistry",
+    "num_emails": 61
+}

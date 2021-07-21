@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Jitendra Nath Pandey)",
+    "from": "Oct 02 2015",
+    "num_senders": 10,
+    "incubation_time": 26,
+    "status": "Graduated",
+    "intro": "Apache Atlas is a scalable and extensible set of core foundational governance services that enables enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the complete enterprise data ecosystem",
+    "end_time": "Jun 21 2017",
+    "start_time": "May 05 2015",
+    "commit_per_dev": 68.5,
+    "num_commits": 137,
+    "to": "Nov 01 2015",
+    "link": "http://incubator.apache.org/projects/atlas.html",
+    "num_committers": 2,
+    "email_per_dev": 2.1,
+    "project_name": "Atlas",
+    "num_emails": 21
+}

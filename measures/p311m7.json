@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Nov 17 2010",
+    "num_senders": 20,
+    "incubation_time": 24,
+    "status": "Retired",
+    "intro": "Zeta Components is a high-quality library of loosely-coupled PHP components.",
+    "end_time": "Apr 20 2012",
+    "start_time": "May 21 2010",
+    "commit_per_dev": 32.5,
+    "num_commits": 65,
+    "to": "Dec 17 2010",
+    "link": "http://incubator.apache.org/projects/zetacomponents.html",
+    "num_committers": 2,
+    "email_per_dev": 5.1,
+    "project_name": "Zeta Components",
+    "num_emails": 102
+}

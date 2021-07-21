@@ -1,0 +1,12 @@
+created_date,author,file
+2012-09-13T21:38:46Z,6695,install_hadoop.sh
+2012-09-13T21:38:46Z,6695,hadoop.install
+2012-09-13T21:38:46Z,6695,hadoop.spec
+2012-09-17T10:59:53Z,6697,install_hue.sh
+2012-09-17T10:59:53Z,6697,hue-app.postinst.tpl
+2012-09-17T10:59:53Z,6697,hue-app.prerm.tpl
+2012-09-17T10:59:53Z,6697,hue-common.install
+2012-09-17T10:59:53Z,6697,hue-common.postinst
+2012-09-17T10:59:53Z,6697,hue.spec
+2012-09-17T21:44:50Z,6695,install_datafu.sh
+2012-09-17T21:46:17Z,6695,install_jsvc.sh

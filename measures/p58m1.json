@@ -1,0 +1,18 @@
+{
+    "sponsor": "Tika",
+    "from": "Oct 01 2011",
+    "num_senders": 8,
+    "incubation_time": 12,
+    "status": "Graduated",
+    "intro": "Anything To Triples (any23) is a library, a web service and a command line tool that extracts structured data in RDF format from a variety of Web documents.",
+    "end_time": "Aug 28 2012",
+    "start_time": "Oct 01 2011",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Oct 31 2011",
+    "link": "http://incubator.apache.org/projects/any23.html",
+    "num_committers": 0,
+    "email_per_dev": 5.38,
+    "project_name": "Any23",
+    "num_emails": 43
+}

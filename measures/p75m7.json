@@ -1,0 +1,18 @@
+{
+    "sponsor": "DB",
+    "from": "Sep 05 2006",
+    "num_senders": 14,
+    "incubation_time": 10,
+    "status": "Graduated",
+    "intro": "Robust Persistence",
+    "end_time": "Dec 20 2006",
+    "start_time": "Mar 09 2006",
+    "commit_per_dev": 228.5,
+    "num_commits": 914,
+    "to": "Oct 05 2006",
+    "link": "http://incubator.apache.org/projects/cayenne.html",
+    "num_committers": 4,
+    "email_per_dev": 4.71,
+    "project_name": "Cayenne",
+    "num_emails": 66
+}

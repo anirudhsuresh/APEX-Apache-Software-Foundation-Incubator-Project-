@@ -1,0 +1,10 @@
+created_date,author,file
+2012-07-25T07:05:00Z,27919,AbstractManifestInfoMojo.java
+2012-07-25T07:05:00Z,27919,ExtractNuspecFromPackagesMojo.java
+2012-07-25T07:05:00Z,27919,GeneratePackageManifestInfosMojo.java
+2012-07-25T07:05:00Z,27919,AbstractHandleEachImportMojo.java
+2012-07-25T07:05:00Z,27919,AbstractHandleEachLibraryMojo.java
+2012-07-25T09:14:24Z,27919,LibImporterPathUtils.java
+2012-07-25T09:14:24Z,27919,GeneratePackageArtifactsMojo.java
+2012-07-25T09:14:24Z,27919,NugetPackage.java
+2012-07-25T09:14:24Z,27919,NugetPackageLibrary.java

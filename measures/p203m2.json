@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jul 20 2005",
+    "num_senders": 17,
+    "incubation_time": 21,
+    "status": "Graduated",
+    "intro": "Roller blog server",
+    "end_time": "Feb 21 2007",
+    "start_time": "Jun 20 2005",
+    "commit_per_dev": 223.0,
+    "num_commits": 669,
+    "to": "Aug 19 2005",
+    "link": "http://incubator.apache.org/projects/roller.html",
+    "num_committers": 3,
+    "email_per_dev": 7.71,
+    "project_name": "Roller",
+    "num_emails": 131
+}

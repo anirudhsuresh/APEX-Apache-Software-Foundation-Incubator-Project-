@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jul 14 2010",
+    "num_senders": 10,
+    "incubation_time": 40,
+    "status": "Graduated",
+    "intro": "Chukwa is a log collection and analysis framework for Apache Hadoop clusters.",
+    "end_time": "Sep 27 2013",
+    "start_time": "Jul 14 2010",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Aug 13 2010",
+    "link": "http://incubator.apache.org/projects/chukwa.html",
+    "num_committers": 0,
+    "email_per_dev": 3.6,
+    "project_name": "Chukwa",
+    "num_emails": 36
+}

@@ -1,0 +1,12 @@
+created_date,author,file
+2006-12-18T11:43:59Z,17985,BeanConverter.java
+2006-12-18T11:43:59Z,17985,AbstractBeanConverterImpl.java
+2006-12-18T11:43:59Z,17985,DefaultBeanConverterImpl.java
+2006-12-18T11:43:59Z,17985,InlineBeanConverterImpl.java
+2006-12-18T11:43:59Z,17985,ParentBeanConverterImpl.java
+2006-12-18T11:43:59Z,17985,BeanLazyLoader.java
+2006-12-18T11:43:59Z,17985,ObjectConverterImpl.java
+2006-12-18T11:43:59Z,17985,DigesterMapperImplTest.java
+2006-12-18T11:43:59Z,17985,BeanDescriptorTest.java
+2006-12-18T11:43:59Z,17985,FakeBeanConverter.java
+2006-12-18T11:43:59Z,17985,Paragraph.java

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Ant (Antoine Levy-Lambert)",
+    "from": "Jul 24 2012",
+    "num_senders": 5,
+    "incubation_time": 26,
+    "status": "Graduated",
+    "intro": "Easyant is a build system based on Apache Ant and Apache Ivy.",
+    "end_time": "Mar 12 2013",
+    "start_time": "Jan 31 2011",
+    "commit_per_dev": 189.0,
+    "num_commits": 189,
+    "to": "Aug 23 2012",
+    "link": "http://incubator.apache.org/projects/easyant.html",
+    "num_committers": 1,
+    "email_per_dev": 2.8,
+    "project_name": "EasyAnt",
+    "num_emails": 14
+}

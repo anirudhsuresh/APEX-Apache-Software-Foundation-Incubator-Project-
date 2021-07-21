@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Sep 21 2009",
+    "num_senders": 7,
+    "incubation_time": 14,
+    "status": "Graduated",
+    "intro": "JSR-299 Implementation",
+    "end_time": "Dec 17 2009",
+    "start_time": "Oct 26 2008",
+    "commit_per_dev": 121.67,
+    "num_commits": 365,
+    "to": "Oct 21 2009",
+    "link": "http://incubator.apache.org/projects/openwebbeans.html",
+    "num_committers": 3,
+    "email_per_dev": 5.86,
+    "project_name": "OpenWebBeans",
+    "num_emails": 41
+}

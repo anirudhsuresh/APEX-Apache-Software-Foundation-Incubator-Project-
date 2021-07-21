@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Mar 13 2007",
+    "num_senders": 30,
+    "incubation_time": 21,
+    "status": "Graduated",
+    "intro": "The CXF project will create a SOA services framework by merges the ObjectWeb Celtix project and the Codehaus XFire project.",
+    "end_time": "Apr 16 2008",
+    "start_time": "Aug 15 2006",
+    "commit_per_dev": 79.64,
+    "num_commits": 1115,
+    "to": "Apr 12 2007",
+    "link": "http://incubator.apache.org/projects/cxf.html",
+    "num_committers": 14,
+    "email_per_dev": 8.8,
+    "project_name": "CXF",
+    "num_emails": 264
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Apr 12 2008",
+    "num_senders": 23,
+    "incubation_time": 10,
+    "status": "Graduated",
+    "intro": "CouchDB",
+    "end_time": "Nov 19 2008",
+    "start_time": "Feb 12 2008",
+    "commit_per_dev": 39.75,
+    "num_commits": 159,
+    "to": "May 12 2008",
+    "link": "http://incubator.apache.org/projects/couchdb.html",
+    "num_committers": 4,
+    "email_per_dev": 2.74,
+    "project_name": "CouchDB",
+    "num_emails": 63
+}

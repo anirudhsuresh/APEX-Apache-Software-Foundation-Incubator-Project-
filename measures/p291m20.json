@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Mar 12 2010",
+    "num_senders": 8,
+    "incubation_time": 54,
+    "status": "Retired",
+    "intro": "A Photo Gallery application, accessible via the web and written in Java Retired due to inactivity.",
+    "end_time": "Dec 29 2012",
+    "start_time": "Aug 19 2008",
+    "commit_per_dev": 19.5,
+    "num_commits": 39,
+    "to": "Apr 11 2010",
+    "link": "http://incubator.apache.org/projects/photark.html",
+    "num_committers": 2,
+    "email_per_dev": 6.62,
+    "project_name": "PhotArk",
+    "num_emails": 53
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Sep 17 2010",
+    "num_senders": 27,
+    "incubation_time": 15,
+    "status": "Graduated",
+    "intro": "The Aries project will deliver a set of pluggable Java components enabling an enterprise OSGi application programming model.",
+    "end_time": "Dec 15 2010",
+    "start_time": "Sep 22 2009",
+    "commit_per_dev": 33.89,
+    "num_commits": 305,
+    "to": "Oct 17 2010",
+    "link": "http://incubator.apache.org/projects/aries.html",
+    "num_committers": 9,
+    "email_per_dev": 6.44,
+    "project_name": "Aries",
+    "num_emails": 174
+}

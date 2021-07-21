@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Henry Saputra)",
+    "from": "Sep 01 2017",
+    "num_senders": 8,
+    "incubation_time": 24,
+    "status": "Graduated",
+    "intro": "Griffin is a open source Data Quality solution for distributed data systems at any scale in both streaming or batch data context",
+    "end_time": "Nov 21 2018",
+    "start_time": "Dec 05 2016",
+    "commit_per_dev": 59.0,
+    "num_commits": 177,
+    "to": "Oct 01 2017",
+    "link": "http://incubator.apache.org/projects/griffin.html",
+    "num_committers": 3,
+    "email_per_dev": 0.75,
+    "project_name": "Griffin",
+    "num_emails": 6
+}

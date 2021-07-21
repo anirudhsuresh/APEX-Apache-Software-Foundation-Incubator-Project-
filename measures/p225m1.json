@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Simone Tripodi)",
+    "from": "Feb 10 2012",
+    "num_senders": 20,
+    "incubation_time": 10,
+    "status": "Graduated",
+    "intro": "An Open Source system for managing digital identities in enterprise environments, implemented in JEE technology",
+    "end_time": "Nov 21 2012",
+    "start_time": "Feb 10 2012",
+    "commit_per_dev": 1221.0,
+    "num_commits": 4884,
+    "to": "Mar 11 2012",
+    "link": "http://incubator.apache.org/projects/syncope.html",
+    "num_committers": 4,
+    "email_per_dev": 7.1,
+    "project_name": "Syncope",
+    "num_emails": 142
+}

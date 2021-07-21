@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Ted Dunning)",
+    "from": "Apr 08 2013",
+    "num_senders": 12,
+    "incubation_time": 28,
+    "status": "Graduated",
+    "intro": "Drill is a distributed system for interactive analysis of large-scale datasets, inspired by Google's Dremel.",
+    "end_time": "Nov 19 2014",
+    "start_time": "Aug 11 2012",
+    "commit_per_dev": 146.67,
+    "num_commits": 440,
+    "to": "May 08 2013",
+    "link": "http://incubator.apache.org/projects/drill.html",
+    "num_committers": 3,
+    "email_per_dev": 6.92,
+    "project_name": "Drill",
+    "num_emails": 83
+}

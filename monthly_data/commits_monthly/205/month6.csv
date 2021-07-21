@@ -1,0 +1,13 @@
+created_date,author,file
+2008-03-03T10:01:05Z,398,AppTest.java
+2008-03-03T10:01:05Z,398,GifImageParser.java
+2008-03-03T10:01:05Z,398,PngImageParser.java
+2008-03-03T10:01:05Z,398,TiffImageMetadata.java
+2008-03-03T10:01:05Z,398,TiffImageParser.java
+2008-03-03T10:01:05Z,398,TiffOutputSet.java
+2008-03-03T10:01:05Z,398,MetadataExample.java
+2008-03-03T10:01:05Z,398,WriteExifMetadataExample.java
+2008-03-03T10:01:05Z,398,IOUtils.java
+2008-03-03T10:01:05Z,398,ExifBaseTest.java
+2008-03-03T10:01:05Z,398,ExifRewriteTest.java
+2008-03-03T10:01:05Z,398,WriteExifMetadataExampleTest.java

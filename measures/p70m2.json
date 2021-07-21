@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Chip Childers)",
+    "from": "May 31 2014",
+    "num_senders": 25,
+    "incubation_time": 19,
+    "status": "Graduated",
+    "intro": "Brooklyn is a framework for modelling, monitoring, and managing applications through autonomic blueprints.",
+    "end_time": "Nov 18 2015",
+    "start_time": "May 01 2014",
+    "commit_per_dev": 70.92,
+    "num_commits": 851,
+    "to": "Jun 30 2014",
+    "link": "http://incubator.apache.org/projects/brooklyn.html",
+    "num_committers": 12,
+    "email_per_dev": 5.08,
+    "project_name": "Brooklyn",
+    "num_emails": 127
+}

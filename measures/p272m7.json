@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jan 10 2006",
+    "num_senders": 0,
+    "incubation_time": 24,
+    "status": "Retired",
+    "intro": "Identity for the rest of us. Project retired. Some activity moved to OpenID.net",
+    "end_time": "Jun 09 2007",
+    "start_time": "Jul 14 2005",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Feb 09 2006",
+    "link": "http://incubator.apache.org/projects/heraldry.html",
+    "num_committers": 0,
+    "email_per_dev": 0,
+    "project_name": "Heraldry",
+    "num_emails": 0
+}

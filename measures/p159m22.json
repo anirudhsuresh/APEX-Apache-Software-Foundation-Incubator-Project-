@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Sep 13 2012",
+    "num_senders": 19,
+    "incubation_time": 31,
+    "status": "Graduated",
+    "intro": "Mesos is a cluster manager that provides resource sharing and isolation across cluster applications.",
+    "end_time": "Jun 19 2013",
+    "start_time": "Dec 23 2010",
+    "commit_per_dev": 114.5,
+    "num_commits": 229,
+    "to": "Oct 13 2012",
+    "link": "http://incubator.apache.org/projects/mesos.html",
+    "num_committers": 2,
+    "email_per_dev": 13.0,
+    "project_name": "Mesos",
+    "num_emails": 247
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Mar 10 2010",
+    "num_senders": 23,
+    "incubation_time": 10,
+    "status": "Graduated",
+    "intro": "A scalable and extensible HTTP proxy server and cache.",
+    "end_time": "Apr 21 2010",
+    "start_time": "Jul 13 2009",
+    "commit_per_dev": 54.0,
+    "num_commits": 594,
+    "to": "Apr 09 2010",
+    "link": "http://incubator.apache.org/projects/trafficserver.html",
+    "num_committers": 11,
+    "email_per_dev": 6.09,
+    "project_name": "Traffic Server",
+    "num_emails": 140
+}

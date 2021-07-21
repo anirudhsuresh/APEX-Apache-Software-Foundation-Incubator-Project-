@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Tom White)",
+    "from": "Nov 27 2016",
+    "num_senders": 21,
+    "incubation_time": 24,
+    "status": "Graduated",
+    "intro": "Impala is a high-performance C++ and Java SQL query engine for data stored in Apache Hadoop-based clusters.",
+    "end_time": "Nov 15 2017",
+    "start_time": "Dec 03 2015",
+    "commit_per_dev": 60.36,
+    "num_commits": 845,
+    "to": "Dec 27 2016",
+    "link": "http://incubator.apache.org/projects/impala.html",
+    "num_committers": 14,
+    "email_per_dev": 5.29,
+    "project_name": "Impala",
+    "num_emails": 111
+}

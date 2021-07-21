@@ -1,0 +1,13 @@
+created_date,author,file
+2006-11-20T13:22:20Z,17985,graffito-jcr-mapping.dtd
+2006-11-20T13:22:20Z,17985,BeanDescriptor.java
+2006-11-20T13:22:20Z,17985,ClassDescriptor.java
+2006-11-20T13:22:20Z,17985,BeanConverter.java
+2006-11-20T13:22:20Z,17985,AbstractBeanConverterImpl.java
+2006-11-20T13:22:20Z,17985,InlineBeanConverterImpl.java
+2006-11-20T13:22:20Z,17985,ParentBeanConverterImpl.java
+2006-11-20T13:22:20Z,17985,ObjectConverterImpl.java
+2006-11-20T13:22:20Z,17985,SimpleFieldsHelper.java
+2006-11-20T13:22:20Z,17985,DigesterMapperImplTest.java
+2006-11-20T13:22:20Z,17985,BeanDescriptorTest.java
+2006-11-20T13:22:20Z,17985,FakeBeanConverter.java

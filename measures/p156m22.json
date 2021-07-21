@@ -1,0 +1,18 @@
+{
+    "sponsor": "Lucene",
+    "from": "Oct 02 2011",
+    "num_senders": 5,
+    "incubation_time": 29,
+    "status": "Graduated",
+    "intro": "Connectors for content repositories like Sharepoint, Documentum, etc.",
+    "end_time": "May 16 2012",
+    "start_time": "Jan 10 2010",
+    "commit_per_dev": 96.0,
+    "num_commits": 192,
+    "to": "Nov 01 2011",
+    "link": "http://incubator.apache.org/projects/manifoldcf.html",
+    "num_committers": 2,
+    "email_per_dev": 21.0,
+    "project_name": "ManifoldCF",
+    "num_emails": 105
+}

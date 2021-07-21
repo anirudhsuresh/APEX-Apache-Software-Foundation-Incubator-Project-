@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Todd Lipcon)",
+    "from": "May 31 2016",
+    "num_senders": 14,
+    "incubation_time": 8,
+    "status": "Graduated",
+    "intro": "Kudu is a distributed columnar storage engine built for the Apache Hadoop ecosystem.",
+    "end_time": "Jul 20 2016",
+    "start_time": "Dec 03 2015",
+    "commit_per_dev": 110.0,
+    "num_commits": 1100,
+    "to": "Jun 30 2016",
+    "link": "http://incubator.apache.org/projects/kudu.html",
+    "num_committers": 10,
+    "email_per_dev": 4.79,
+    "project_name": "Kudu",
+    "num_emails": 67
+}

@@ -1,0 +1,17 @@
+created_date,author,file
+2014-04-09T11:04:47Z,16697,KerberosConfiguration.java
+2014-04-11T09:36:01Z,16697,HiveAuthzBindingHook.java
+2014-04-11T09:36:01Z,16697,TestViewPrivileges.java
+2014-04-15T16:06:26Z,34660,SentryHiveAuthorizationTaskFactoryImpl.java
+2014-04-15T16:06:26Z,34660,TestSentryHiveAuthorizationTaskFactory.java
+2014-04-22T09:15:26Z,16697,SentryStore.java
+2014-04-22T09:15:26Z,16697,TestSentryStore.java
+2014-04-29T13:17:00Z,34680,AbstractSolrSentryTestBase.java
+2014-04-29T13:17:00Z,34680,TestCollAdminCoreOperations.java
+2014-04-29T13:17:00Z,34680,TestQueryOperations.java
+2014-04-29T13:17:00Z,34680,TestUpdateOperations.java
+2014-04-29T13:56:44Z,34680,AbstractSolrSentryTestBase.java
+2014-04-29T13:56:44Z,34680,TestDocLevelOperations.java
+2014-04-29T14:20:30Z,34680,AbstractSolrSentryTestBase.java
+2014-04-29T14:20:30Z,34680,TestDocLevelOperations.java
+2014-04-29T14:20:30Z,34680,TestUpdateOperations.java

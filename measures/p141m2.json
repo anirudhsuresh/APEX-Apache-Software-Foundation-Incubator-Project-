@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (John D. Ament)",
+    "from": "Jul 24 2016",
+    "num_senders": 9,
+    "incubation_time": 17,
+    "status": "Graduated",
+    "intro": "Apache Juneau is a toolkit for marshalling POJOs to a wide variety of content types using a common framework, and for creating sophisticated self-documenting REST interfaces and microservices using VERY little code.",
+    "end_time": "Oct 18 2017",
+    "start_time": "Jun 24 2016",
+    "commit_per_dev": 818.4,
+    "num_commits": 4092,
+    "to": "Aug 23 2016",
+    "link": "http://incubator.apache.org/projects/juneau.html",
+    "num_committers": 5,
+    "email_per_dev": 14.78,
+    "project_name": "Juneau",
+    "num_emails": 133
+}

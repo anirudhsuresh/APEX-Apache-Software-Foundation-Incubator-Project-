@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Andrew Purtell)",
+    "from": "Mar 03 2017",
+    "num_senders": 9,
+    "incubation_time": 31,
+    "status": "Retired",
+    "intro": "Gearpump is a reactive real-time streaming engine based on the micro-service Actor model. Retired",
+    "end_time": "Sep 19 2018",
+    "start_time": "Mar 08 2016",
+    "commit_per_dev": 10.67,
+    "num_commits": 32,
+    "to": "Apr 02 2017",
+    "link": "http://incubator.apache.org/projects/gearpump.html",
+    "num_committers": 3,
+    "email_per_dev": 1.78,
+    "project_name": "Gearpump",
+    "num_emails": 16
+}

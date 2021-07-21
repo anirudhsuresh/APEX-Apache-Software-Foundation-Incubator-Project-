@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Devaraj Das)",
+    "from": "Aug 21 2013",
+    "num_senders": 5,
+    "incubation_time": 13,
+    "status": "Graduated",
+    "intro": "Knox Gateway is a system that provides a single point of secure access for Apache Hadoop clusters.",
+    "end_time": "Feb 19 2014",
+    "start_time": "Feb 22 2013",
+    "commit_per_dev": 145.67,
+    "num_commits": 437,
+    "to": "Sep 20 2013",
+    "link": "http://incubator.apache.org/projects/knox.html",
+    "num_committers": 3,
+    "email_per_dev": 7.8,
+    "project_name": "Knox",
+    "num_emails": 39
+}

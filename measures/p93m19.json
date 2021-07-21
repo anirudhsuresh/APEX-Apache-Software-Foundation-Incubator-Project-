@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Bertrand Delacretaz)",
+    "from": "Jun 26 2013",
+    "num_senders": 8,
+    "incubation_time": 36,
+    "status": "Graduated",
+    "intro": "Apache DeviceMap is a data repository containing device information, images and other relevant information for all sorts of mobile devices, e.g. smartphones and tablets. While the focus is initially on that data, APIs will also be created to use and manage it.",
+    "end_time": "Nov 19 2014",
+    "start_time": "Jan 03 2012",
+    "commit_per_dev": 31.0,
+    "num_commits": 93,
+    "to": "Jul 26 2013",
+    "link": "http://incubator.apache.org/projects/devicemap.html",
+    "num_committers": 3,
+    "email_per_dev": 4.62,
+    "project_name": "DeviceMap",
+    "num_emails": 37
+}

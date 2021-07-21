@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Oct 17 2004",
+    "num_senders": 14,
+    "incubation_time": 17,
+    "status": "Graduated",
+    "intro": "Directory projects.",
+    "end_time": "Feb 23 2005",
+    "start_time": "Oct 23 2003",
+    "commit_per_dev": 299.0,
+    "num_commits": 1495,
+    "to": "Nov 16 2004",
+    "link": "http://incubator.apache.org/projects/directory.html",
+    "num_committers": 5,
+    "email_per_dev": 3.71,
+    "project_name": "Directory",
+    "num_emails": 52
+}

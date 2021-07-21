@@ -1,0 +1,18 @@
+{
+    "sponsor": "Ant (Antoine Levy-Lambert,Sylvain Wallez)",
+    "from": "Apr 21 2007",
+    "num_senders": 26,
+    "incubation_time": 12,
+    "status": "Graduated",
+    "intro": "A java based tool for tracking, resolving and managing project dependencies.",
+    "end_time": "Oct 11 2007",
+    "start_time": "Oct 23 2006",
+    "commit_per_dev": 146.0,
+    "num_commits": 438,
+    "to": "May 21 2007",
+    "link": "http://incubator.apache.org/projects/ivy.html",
+    "num_committers": 3,
+    "email_per_dev": 5.12,
+    "project_name": "Ivy",
+    "num_emails": 133
+}

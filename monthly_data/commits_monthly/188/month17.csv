@@ -1,0 +1,11 @@
+created_date,author,file
+2009-06-07T08:31:41Z,31251,SetLineWidth.java
+2009-06-07T08:31:41Z,31251,StrokePath.java
+2009-06-09T22:48:30Z,31251,PDFParser.java
+2009-06-09T22:58:26Z,31251,PDColorSpaceFactory.java
+2009-06-14T05:03:43Z,31251,IndexFiles.java
+2009-06-14T05:03:43Z,31251,LucenePDFDocument.java
+2009-06-20T06:29:07Z,31251,PageDrawer.java
+2009-06-25T10:10:25Z,31251,PDSimpleFont.java
+2009-06-25T10:10:25Z,31251,PDTrueTypeFont.java
+2009-06-25T10:10:25Z,31251,PDType1Font.java

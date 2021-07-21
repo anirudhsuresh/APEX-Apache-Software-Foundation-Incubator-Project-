@@ -1,0 +1,18 @@
+{
+    "sponsor": "Portals",
+    "from": "Jun 17 2005",
+    "num_senders": 5,
+    "incubation_time": 35,
+    "status": "Retired",
+    "intro": "Portal oriented Content Management System (Formerly known as JCMS)",
+    "end_time": "Jul 11 2007",
+    "start_time": "Sep 20 2004",
+    "commit_per_dev": 15.0,
+    "num_commits": 15,
+    "to": "Jul 17 2005",
+    "link": "http://incubator.apache.org/projects/graffito.html",
+    "num_committers": 1,
+    "email_per_dev": 3.4,
+    "project_name": "Graffito",
+    "num_emails": 17
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Mar 05 2010",
+    "num_senders": 10,
+    "incubation_time": 72,
+    "status": "Graduated",
+    "intro": "Java-based wiki engine",
+    "end_time": "Jul 19 2013",
+    "start_time": "Sep 17 2007",
+    "commit_per_dev": 21.33,
+    "num_commits": 64,
+    "to": "Apr 04 2010",
+    "link": "http://incubator.apache.org/projects/jspwiki.html",
+    "num_committers": 3,
+    "email_per_dev": 3.6,
+    "project_name": "JSPWiki",
+    "num_emails": 36
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Lucene",
+    "from": "Dec 13 2006",
+    "num_senders": 38,
+    "incubation_time": 13,
+    "status": "Graduated",
+    "intro": "Full Text Search Server",
+    "end_time": "Jan 17 2007",
+    "start_time": "Jan 17 2006",
+    "commit_per_dev": 35.6,
+    "num_commits": 178,
+    "to": "Jan 12 2007",
+    "link": "http://incubator.apache.org/projects/solr.html",
+    "num_committers": 5,
+    "email_per_dev": 5.24,
+    "project_name": "Solr",
+    "num_emails": 199
+}

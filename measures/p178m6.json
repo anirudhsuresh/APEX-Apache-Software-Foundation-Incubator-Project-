@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 08 2011",
+    "num_senders": 23,
+    "incubation_time": 14,
+    "status": "Graduated",
+    "intro": "Server-based workflow scheduling and coordination system to manage data processing jobs for Apache Hadoop",
+    "end_time": "Aug 28 2012",
+    "start_time": "Jul 11 2011",
+    "commit_per_dev": 45.67,
+    "num_commits": 137,
+    "to": "Jan 07 2012",
+    "link": "http://incubator.apache.org/projects/oozie.html",
+    "num_committers": 3,
+    "email_per_dev": 7.52,
+    "project_name": "Oozie",
+    "num_emails": 173
+}

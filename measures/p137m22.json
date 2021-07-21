@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Mark Struberg)",
+    "from": "Feb 29 2016",
+    "num_senders": 8,
+    "incubation_time": 23,
+    "status": "Graduated",
+    "intro": "Implementation of JSR-353 JavaTM API for JSON Processing (Renamed from Fleece)",
+    "end_time": "Apr 20 2016",
+    "start_time": "Jun 09 2014",
+    "commit_per_dev": 122.5,
+    "num_commits": 490,
+    "to": "Mar 30 2016",
+    "link": "http://incubator.apache.org/projects/johnzon.html",
+    "num_committers": 4,
+    "email_per_dev": 6.12,
+    "project_name": "Johnzon",
+    "num_emails": 49
+}

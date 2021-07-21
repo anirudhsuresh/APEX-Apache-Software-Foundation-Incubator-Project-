@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Florian MAller)",
+    "from": "Jan 04 2014",
+    "num_senders": 17,
+    "incubation_time": 9,
+    "status": "Graduated",
+    "intro": "OData implementation in Java",
+    "end_time": "Mar 19 2014",
+    "start_time": "Jul 08 2013",
+    "commit_per_dev": 169.2,
+    "num_commits": 1692,
+    "to": "Feb 03 2014",
+    "link": "http://incubator.apache.org/projects/olingo.html",
+    "num_committers": 10,
+    "email_per_dev": 3.47,
+    "project_name": "Olingo",
+    "num_emails": 59
+}

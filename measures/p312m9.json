@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Michael Semb Wever)",
+    "from": "Apr 26 2019",
+    "num_senders": 16,
+    "incubation_time": 10,
+    "status": "Retired",
+    "intro": "Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. The podling has retired to its former community OpenZipkin (https://zipkin.io)",
+    "end_time": "Jun 19 2019",
+    "start_time": "Aug 29 2018",
+    "commit_per_dev": 11.0,
+    "num_commits": 33,
+    "to": "May 26 2019",
+    "link": "http://incubator.apache.org/projects/zipkin.html",
+    "num_committers": 3,
+    "email_per_dev": 5.06,
+    "project_name": "Zipkin",
+    "num_emails": 81
+}

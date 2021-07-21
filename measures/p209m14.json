@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 27 2008",
+    "num_senders": 84,
+    "incubation_time": 27,
+    "status": "Graduated",
+    "intro": "The Shindig Project is an OpenSocial container.",
+    "end_time": "Jan 21 2010",
+    "start_time": "Dec 03 2007",
+    "commit_per_dev": 137.67,
+    "num_commits": 826,
+    "to": "Jan 26 2009",
+    "link": "http://incubator.apache.org/projects/shindig.html",
+    "num_committers": 6,
+    "email_per_dev": 5.44,
+    "project_name": "Shindig",
+    "num_emails": 457
+}

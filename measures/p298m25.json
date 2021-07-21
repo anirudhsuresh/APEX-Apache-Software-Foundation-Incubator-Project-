@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Olivier Lamy)",
+    "from": "Oct 05 2015",
+    "num_senders": 5,
+    "incubation_time": 46,
+    "status": "Retired",
+    "intro": "Monitoring Solution. Retired",
+    "end_time": "Jul 03 2017",
+    "start_time": "Oct 15 2013",
+    "commit_per_dev": 239.0,
+    "num_commits": 239,
+    "to": "Nov 04 2015",
+    "link": "http://incubator.apache.org/projects/sirona.html",
+    "num_committers": 1,
+    "email_per_dev": 3.2,
+    "project_name": "Sirona",
+    "num_emails": 16
+}

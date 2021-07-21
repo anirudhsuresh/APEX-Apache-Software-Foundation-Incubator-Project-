@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Feb 09 2012",
+    "num_senders": 26,
+    "incubation_time": 7,
+    "status": "Graduated",
+    "intro": "Accumulo is a distributed key/value store that provides expressive, cell-level access labels.",
+    "end_time": "Mar 21 2012",
+    "start_time": "Sep 12 2011",
+    "commit_per_dev": 115.5,
+    "num_commits": 693,
+    "to": "Mar 10 2012",
+    "link": "http://incubator.apache.org/projects/accumulo.html",
+    "num_committers": 6,
+    "email_per_dev": 10.85,
+    "project_name": "Accumulo",
+    "num_emails": 282
+}

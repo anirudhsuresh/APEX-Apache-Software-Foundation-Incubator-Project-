@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "May 25 2011",
+    "num_senders": 9,
+    "incubation_time": 24,
+    "status": "Graduated",
+    "intro": "The Bean Validation project will create an implementation of Bean Validation as defined by the Java EE specifications. Graduated as Apache BVal",
+    "end_time": "Feb 15 2012",
+    "start_time": "Mar 01 2010",
+    "commit_per_dev": 102.0,
+    "num_commits": 102,
+    "to": "Jun 24 2011",
+    "link": "http://incubator.apache.org/projects/beanvalidation.html",
+    "num_committers": 1,
+    "email_per_dev": 1.22,
+    "project_name": "Bean Validation",
+    "num_emails": 11
+}

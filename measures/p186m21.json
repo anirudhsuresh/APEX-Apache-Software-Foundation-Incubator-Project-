@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Sam Ruby)",
+    "from": "Jul 16 2018",
+    "num_senders": 33,
+    "incubation_time": 33,
+    "status": "Graduated",
+    "intro": "distributed Serverless computing platform",
+    "end_time": "Jul 17 2019",
+    "start_time": "Nov 23 2016",
+    "commit_per_dev": 17.0,
+    "num_commits": 17,
+    "to": "Aug 15 2018",
+    "link": "http://incubator.apache.org/projects/openwhisk.html",
+    "num_committers": 1,
+    "email_per_dev": 3.48,
+    "project_name": "OpenWhisk",
+    "num_emails": 115
+}

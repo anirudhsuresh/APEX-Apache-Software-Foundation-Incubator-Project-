@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Arvind Prabhakar)",
+    "from": "Dec 31 2014",
+    "num_senders": 10,
+    "incubation_time": 32,
+    "status": "Graduated",
+    "intro": "    Sentry is a highly modular system for providing fine grained role    based authorization to both data and metadata stored on an Apache Hadoop cluster.",
+    "end_time": "Mar 16 2016",
+    "start_time": "Aug 08 2013",
+    "commit_per_dev": 5.2,
+    "num_commits": 26,
+    "to": "Jan 30 2015",
+    "link": "http://incubator.apache.org/projects/sentry.html",
+    "num_committers": 5,
+    "email_per_dev": 6.5,
+    "project_name": "Sentry",
+    "num_emails": 65
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 12 2011",
+    "num_senders": 21,
+    "incubation_time": 15,
+    "status": "Graduated",
+    "intro": "Openmeetings is a web conferencing solution.",
+    "end_time": "Jan 18 2013",
+    "start_time": "Nov 12 2011",
+    "commit_per_dev": 168.33,
+    "num_commits": 1010,
+    "to": "Jan 11 2012",
+    "link": "http://incubator.apache.org/projects/openmeetings.html",
+    "num_committers": 6,
+    "email_per_dev": 4.57,
+    "project_name": "Openmeetings",
+    "num_emails": 96
+}

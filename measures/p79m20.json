@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Bertrand Delacretaz)",
+    "from": "Jun 20 2011",
+    "num_senders": 19,
+    "incubation_time": 40,
+    "status": "Graduated",
+    "intro": "an OSGi-based modular application and set of components (bundles) for building RESTFul Semantic Web applications and services.",
+    "end_time": "Feb 20 2013",
+    "start_time": "Nov 27 2009",
+    "commit_per_dev": 88.0,
+    "num_commits": 440,
+    "to": "Jul 20 2011",
+    "link": "http://incubator.apache.org/projects/clerezza.html",
+    "num_committers": 5,
+    "email_per_dev": 7.58,
+    "project_name": "Clerezza",
+    "num_emails": 144
+}

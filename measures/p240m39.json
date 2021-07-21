@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 06 2009",
+    "num_senders": 10,
+    "incubation_time": 42,
+    "status": "Graduated",
+    "intro": "Framework for analysing unstructured data.",
+    "end_time": "Mar 18 2010",
+    "start_time": "Oct 23 2006",
+    "commit_per_dev": 7.5,
+    "num_commits": 30,
+    "to": "Jan 05 2010",
+    "link": "http://incubator.apache.org/projects/uima.html",
+    "num_committers": 4,
+    "email_per_dev": 3.4,
+    "project_name": "UIMA",
+    "num_emails": 34
+}

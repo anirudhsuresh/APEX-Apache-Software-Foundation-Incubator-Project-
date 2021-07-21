@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jan 08 2013",
+    "num_senders": 8,
+    "incubation_time": 26,
+    "status": "Retired",
+    "intro": "Eclipse based tools for developing applications on the Hadoop platform Retired at request of PPMC as the project failed to grow community.",
+    "end_time": "Dec 02 2014",
+    "start_time": "Nov 09 2012",
+    "commit_per_dev": 86.0,
+    "num_commits": 258,
+    "to": "Feb 07 2013",
+    "link": "http://incubator.apache.org/projects/hdt.html",
+    "num_committers": 3,
+    "email_per_dev": 4.0,
+    "project_name": "Hadoop Development Tools (HDT)",
+    "num_emails": 32
+}

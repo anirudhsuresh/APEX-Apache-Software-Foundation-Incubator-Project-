@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Feb 23 2012",
+    "num_senders": 8,
+    "incubation_time": 34,
+    "status": "Retired",
+    "intro": "S4 (Simple Scalable Streaming System) is a general-purpose, distributed, scalable, partially fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous, unbounded streams of data.",
+    "end_time": "Jun 19 2014",
+    "start_time": "Sep 26 2011",
+    "commit_per_dev": 98.0,
+    "num_commits": 98,
+    "to": "Mar 24 2012",
+    "link": "http://incubator.apache.org/projects/s4.html",
+    "num_committers": 1,
+    "email_per_dev": 3.88,
+    "project_name": "S4",
+    "num_emails": 31
+}

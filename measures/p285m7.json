@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Edward J. Yoon)",
+    "from": "Sep 09 2013",
+    "num_senders": 8,
+    "incubation_time": 54,
+    "status": "Retired",
+    "intro": "MRQL is a query processing and optimization system for large-scale, distributed data analysis, built on top of Apache Hadoop, Hama, Spark, and Flink. Retired.",
+    "end_time": "Aug 18 2017",
+    "start_time": "Mar 13 2013",
+    "commit_per_dev": 107.0,
+    "num_commits": 107,
+    "to": "Oct 09 2013",
+    "link": "http://incubator.apache.org/projects/mrql.html",
+    "num_committers": 1,
+    "email_per_dev": 1.75,
+    "project_name": "MRQL",
+    "num_emails": 14
+}

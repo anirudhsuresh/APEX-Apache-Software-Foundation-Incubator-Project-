@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jun 28 2008",
+    "num_senders": 21,
+    "incubation_time": 13,
+    "status": "Graduated",
+    "intro": "Pig is a platform for analyzing large datasets.",
+    "end_time": "Oct 22 2008",
+    "start_time": "Oct 02 2007",
+    "commit_per_dev": 244.0,
+    "num_commits": 732,
+    "to": "Jul 28 2008",
+    "link": "http://incubator.apache.org/projects/pig.html",
+    "num_committers": 3,
+    "email_per_dev": 11.95,
+    "project_name": "Pig",
+    "num_emails": 251
+}

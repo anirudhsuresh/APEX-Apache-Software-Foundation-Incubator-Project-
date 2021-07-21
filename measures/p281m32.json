@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "May 25 2011",
+    "num_senders": 4,
+    "incubation_time": 46,
+    "status": "Retired",
+    "intro": "Kato is a project to develop the Specification, Reference Implementation, and TCK for JSR 326: the JVM Post-mortem Diagnostics API. Retired due to inactivity.",
+    "end_time": "Aug 01 2012",
+    "start_time": "Nov 06 2008",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Jun 24 2011",
+    "link": "http://incubator.apache.org/projects/kato.html",
+    "num_committers": 0,
+    "email_per_dev": 0.75,
+    "project_name": "Kato",
+    "num_emails": 3
+}

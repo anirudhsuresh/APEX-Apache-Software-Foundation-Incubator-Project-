@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Oct 10 2011",
+    "num_senders": 21,
+    "incubation_time": 24,
+    "status": "Graduated",
+    "intro": "HCatalog is a table and storage management service for data created using Apache Hadoop. HCatalog became part of the Hive project",
+    "end_time": "Feb 13 2013",
+    "start_time": "Mar 14 2011",
+    "commit_per_dev": 15.25,
+    "num_commits": 61,
+    "to": "Nov 09 2011",
+    "link": "http://incubator.apache.org/projects/hcatalog.html",
+    "num_committers": 4,
+    "email_per_dev": 9.95,
+    "project_name": "HCatalog",
+    "num_emails": 209
+}

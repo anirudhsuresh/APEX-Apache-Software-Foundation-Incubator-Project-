@@ -1,0 +1,18 @@
+{
+    "sponsor": "Geronimo",
+    "from": "Jan 25 2007",
+    "num_senders": 46,
+    "incubation_time": 22,
+    "status": "Graduated",
+    "intro": "The ServiceMix project will create an ESB and component suite based on the Java Business Interface (JBI) standard - JSR 208.",
+    "end_time": "Sep 19 2007",
+    "start_time": "Dec 01 2005",
+    "commit_per_dev": 210.5,
+    "num_commits": 842,
+    "to": "Feb 24 2007",
+    "link": "http://incubator.apache.org/projects/servicemix.html",
+    "num_committers": 4,
+    "email_per_dev": 2.8,
+    "project_name": "ServiceMix",
+    "num_emails": 129
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Sep 05 2014",
+    "num_senders": 17,
+    "incubation_time": 18,
+    "status": "Graduated",
+    "intro": "MetaModel is a data access framework, providing a common interface for exploration and querying of different types of datastores.",
+    "end_time": "Nov 20 2014",
+    "start_time": "Jun 12 2013",
+    "commit_per_dev": 15.0,
+    "num_commits": 30,
+    "to": "Oct 05 2014",
+    "link": "http://incubator.apache.org/projects/metamodel.html",
+    "num_committers": 2,
+    "email_per_dev": 5.41,
+    "project_name": "MetaModel",
+    "num_emails": 92
+}

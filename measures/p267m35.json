@@ -1,0 +1,18 @@
+{
+    "sponsor": "HttpComponents, Lucene",
+    "from": "Jul 26 2011",
+    "num_senders": 11,
+    "incubation_time": 86,
+    "status": "Retired",
+    "intro": "Droids aims to be an intelligent standalone robot framework that allows to create and extend existing droids (robots). Retired from incubation.",
+    "end_time": "Nov 01 2015",
+    "start_time": "Oct 09 2008",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Aug 25 2011",
+    "link": "http://incubator.apache.org/projects/droids.html",
+    "num_committers": 0,
+    "email_per_dev": 1.45,
+    "project_name": "Droids",
+    "num_emails": 16
+}

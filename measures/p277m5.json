@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Hadrian Zbarcea)",
+    "from": "May 19 2016",
+    "num_senders": 5,
+    "incubation_time": 26,
+    "status": "Retired",
+    "intro": "Open source system that enables the orchestration of IoT devices.",
+    "end_time": "Feb 15 2018",
+    "start_time": "Jan 20 2016",
+    "commit_per_dev": 7.0,
+    "num_commits": 7,
+    "to": "Jun 18 2016",
+    "link": "http://incubator.apache.org/projects/iota.html",
+    "num_committers": 1,
+    "email_per_dev": 1.0,
+    "project_name": "iota",
+    "num_emails": 5
+}

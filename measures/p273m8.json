@@ -1,0 +1,18 @@
+{
+    "sponsor": "ODE",
+    "from": "Jun 03 2010",
+    "num_senders": 4,
+    "incubation_time": 28,
+    "status": "Retired",
+    "intro": "HISE Retired due to inactivity.",
+    "end_time": "Feb 11 2012",
+    "start_time": "Nov 05 2009",
+    "commit_per_dev": 27.0,
+    "num_commits": 54,
+    "to": "Jul 03 2010",
+    "link": "http://incubator.apache.org/projects/hise.html",
+    "num_committers": 2,
+    "email_per_dev": 2.0,
+    "project_name": "HISE",
+    "num_emails": 8
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 25 2010",
+    "num_senders": 4,
+    "incubation_time": 16,
+    "status": "Graduated",
+    "intro": "Gora is an ORM framework for column stores such as Apache HBase and Apache Cassandra with a specific focus on Hadoop.",
+    "end_time": "Jan 15 2012",
+    "start_time": "Sep 26 2010",
+    "commit_per_dev": 2.0,
+    "num_commits": 2,
+    "to": "Jan 24 2011",
+    "link": "http://incubator.apache.org/projects/gora.html",
+    "num_committers": 1,
+    "email_per_dev": 1.5,
+    "project_name": "Gora",
+    "num_emails": 6
+}

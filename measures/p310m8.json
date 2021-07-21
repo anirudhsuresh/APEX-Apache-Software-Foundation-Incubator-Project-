@@ -1,0 +1,18 @@
+{
+    "sponsor": "Geronimo",
+    "from": "Aug 29 2006",
+    "num_senders": 17,
+    "incubation_time": 23,
+    "status": "Retired",
+    "intro": "A CORBA Server.",
+    "end_time": "Dec 17 2007",
+    "start_time": "Jan 31 2006",
+    "commit_per_dev": 48.25,
+    "num_commits": 193,
+    "to": "Sep 28 2006",
+    "link": "http://incubator.apache.org/projects/yoko.html",
+    "num_committers": 4,
+    "email_per_dev": 2.59,
+    "project_name": "Yoko",
+    "num_emails": 44
+}

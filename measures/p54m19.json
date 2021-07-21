@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Chris Riccomini)",
+    "from": "Sep 22 2017",
+    "num_senders": 51,
+    "incubation_time": 34,
+    "status": "Graduated",
+    "intro": "Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines.",
+    "end_time": "Dec 19 2018",
+    "start_time": "Mar 31 2016",
+    "commit_per_dev": 43.8,
+    "num_commits": 219,
+    "to": "Oct 22 2017",
+    "link": "http://incubator.apache.org/projects/airflow.html",
+    "num_committers": 5,
+    "email_per_dev": 2.49,
+    "project_name": "Airflow",
+    "num_emails": 127
+}

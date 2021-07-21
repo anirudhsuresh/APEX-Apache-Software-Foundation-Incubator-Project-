@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 14 2004",
+    "num_senders": 32,
+    "incubation_time": 9,
+    "status": "Graduated",
+    "intro": "The iBATIS Data Mapper framework makes it easier to use a database with Java or .NET applications. iBATIS couples objects with stored procedures or SQL statements using a XML descriptor.",
+    "end_time": "Apr 27 2005",
+    "start_time": "Aug 16 2004",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Jan 13 2005",
+    "link": "http://incubator.apache.org/projects/ibatis.html",
+    "num_committers": 0,
+    "email_per_dev": 1.84,
+    "project_name": "iBATIS",
+    "num_emails": 59
+}

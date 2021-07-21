@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "May 11 2010",
+    "num_senders": 4,
+    "incubation_time": 16,
+    "status": "Graduated",
+    "intro": "Whirr provides code for running a variety of software services on cloud infrastructure.",
+    "end_time": "Aug 17 2011",
+    "start_time": "May 11 2010",
+    "commit_per_dev": 15.0,
+    "num_commits": 15,
+    "to": "Jun 10 2010",
+    "link": "http://incubator.apache.org/projects/whirr.html",
+    "num_committers": 1,
+    "email_per_dev": 4.25,
+    "project_name": "Whirr",
+    "num_emails": 17
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Konstantin Boudnik)",
+    "from": "Aug 27 2015",
+    "num_senders": 38,
+    "incubation_time": 12,
+    "status": "Graduated",
+    "intro": "A unified In-Memory Data Fabric providing high-performance, distributed in-memory data management software layer between various data sources and user applications.",
+    "end_time": "Sep 18 2015",
+    "start_time": "Oct 01 2014",
+    "commit_per_dev": 927.67,
+    "num_commits": 22264,
+    "to": "Sep 26 2015",
+    "link": "http://incubator.apache.org/projects/ignite.html",
+    "num_committers": 24,
+    "email_per_dev": 11.5,
+    "project_name": "Ignite",
+    "num_emails": 437
+}

@@ -1,0 +1,16 @@
+created_date,author,file
+2007-07-14T14:30:37Z,4941,DefaultFtpReply.java
+2007-07-14T14:30:37Z,4941,DefaultFtpReplyTest.java
+2007-07-29T12:46:45Z,4941,IODataConnectionFactory.java
+2007-07-29T12:46:45Z,4941,Ssl.java
+2007-07-29T12:46:45Z,4941,IOConnection.java
+2007-07-29T12:46:45Z,4941,IOListener.java
+2007-07-29T12:46:45Z,4941,MinaConnection.java
+2007-07-29T12:46:45Z,4941,MinaListener.java
+2007-07-29T12:46:45Z,4941,DefaultSsl.java
+2007-07-29T12:46:45Z,4941,IOCipherSuitesTest.java
+2007-07-29T12:46:45Z,4941,MinaCipherSuitesTest.java
+2007-07-29T12:46:45Z,4941,SSLTestTemplate.java
+2007-07-29T12:48:39Z,4941,MinaListener.java
+2007-07-29T12:48:39Z,4941,StoreTest.java
+2007-07-29T12:48:39Z,4941,UnlimitedMaxLoginTest.java

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Chris Mattmann)",
+    "from": "Aug 11 2016",
+    "num_senders": 12,
+    "incubation_time": 33,
+    "status": "Graduated",
+    "intro": "Joshua is a statistical machine translation toolkit",
+    "end_time": "Oct 17 2018",
+    "start_time": "Feb 13 2016",
+    "commit_per_dev": 180.0,
+    "num_commits": 1440,
+    "to": "Sep 10 2016",
+    "link": "http://incubator.apache.org/projects/joshua.html",
+    "num_committers": 8,
+    "email_per_dev": 3.83,
+    "project_name": "Joshua",
+    "num_emails": 46
+}

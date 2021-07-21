@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Sep 15 2008",
+    "num_senders": 31,
+    "incubation_time": 29,
+    "status": "Graduated",
+    "intro": "Qpid provides multiple language implementations of the Advanced Messaged Queuing Protocol (AMQP)",
+    "end_time": "Dec 18 2008",
+    "start_time": "Aug 27 2006",
+    "commit_per_dev": 86.79,
+    "num_commits": 1215,
+    "to": "Oct 15 2008",
+    "link": "http://incubator.apache.org/projects/qpid.html",
+    "num_committers": 14,
+    "email_per_dev": 8.39,
+    "project_name": "Qpid",
+    "num_emails": 260
+}

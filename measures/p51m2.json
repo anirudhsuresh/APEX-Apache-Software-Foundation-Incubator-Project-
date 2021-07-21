@@ -1,0 +1,18 @@
+{
+    "sponsor": "Board",
+    "from": "May 24 2009",
+    "num_senders": 3,
+    "incubation_time": 33,
+    "status": "Graduated",
+    "intro": "A software distribution framework based on OSGi that allows you to manage and distribute artifacts.",
+    "end_time": "Dec 21 2011",
+    "start_time": "Apr 24 2009",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Jun 23 2009",
+    "link": "http://incubator.apache.org/projects/ace.html",
+    "num_committers": 0,
+    "email_per_dev": 2.0,
+    "project_name": "ACE",
+    "num_emails": 6
+}

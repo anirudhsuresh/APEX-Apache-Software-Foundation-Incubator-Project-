@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Patrick Hunt)",
+    "from": "Oct 14 2012",
+    "num_senders": 10,
+    "incubation_time": 15,
+    "status": "Graduated",
+    "intro": "Apache Helix is a generic cluster management framework used to build distributed systems and provides automatic partition management, fault tolerance and elasticity.",
+    "end_time": "Dec 18 2013",
+    "start_time": "Oct 14 2012",
+    "commit_per_dev": 2262.75,
+    "num_commits": 9051,
+    "to": "Nov 13 2012",
+    "link": "http://incubator.apache.org/projects/helix.html",
+    "num_committers": 4,
+    "email_per_dev": 6.4,
+    "project_name": "Helix",
+    "num_emails": 64
+}

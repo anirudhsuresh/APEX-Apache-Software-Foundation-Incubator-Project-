@@ -1,0 +1,18 @@
+{
+    "sponsor": "DB",
+    "from": "Jun 11 2005",
+    "num_senders": 67,
+    "incubation_time": 12,
+    "status": "Graduated",
+    "intro": "Java relational database",
+    "end_time": "Jul 18 2005",
+    "start_time": "Aug 15 2004",
+    "commit_per_dev": 296.0,
+    "num_commits": 1776,
+    "to": "Jul 11 2005",
+    "link": "http://incubator.apache.org/projects/derby.html",
+    "num_committers": 6,
+    "email_per_dev": 8.13,
+    "project_name": "Derby",
+    "num_emails": 545
+}

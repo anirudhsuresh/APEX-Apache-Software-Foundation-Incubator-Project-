@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Nov 14 2005",
+    "num_senders": 43,
+    "incubation_time": 18,
+    "status": "Graduated",
+    "intro": "Compatible implementation of J2SE",
+    "end_time": "Oct 29 2006",
+    "start_time": "May 18 2005",
+    "commit_per_dev": 594.0,
+    "num_commits": 1782,
+    "to": "Dec 14 2005",
+    "link": "http://incubator.apache.org/projects/harmony.html",
+    "num_committers": 3,
+    "email_per_dev": 5.12,
+    "project_name": "Harmony",
+    "num_emails": 220
+}

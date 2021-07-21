@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "May 15 2006",
+    "num_senders": 36,
+    "incubation_time": 21,
+    "status": "Graduated",
+    "intro": "Implementation of the OSGi R4 specification. (Formerly known as Oscar)",
+    "end_time": "Apr 01 2007",
+    "start_time": "Jul 19 2005",
+    "commit_per_dev": 13.0,
+    "num_commits": 39,
+    "to": "Jun 14 2006",
+    "link": "http://incubator.apache.org/projects/felix.html",
+    "num_committers": 3,
+    "email_per_dev": 6.42,
+    "project_name": "Felix",
+    "num_emails": 231
+}

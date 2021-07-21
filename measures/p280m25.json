@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Sep 09 2013",
+    "num_senders": 4,
+    "incubation_time": 51,
+    "status": "Retired",
+    "intro": "Kalumet a complete environment manager and deployer including J2EE environments (application servers, applications, etc), softwares, and resources. Podling retired from incubation.",
+    "end_time": "Nov 01 2015",
+    "start_time": "Sep 20 2011",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Oct 09 2013",
+    "link": "http://incubator.apache.org/projects/kalumet.html",
+    "num_committers": 0,
+    "email_per_dev": 0.75,
+    "project_name": "Kalumet",
+    "num_emails": 3
+}

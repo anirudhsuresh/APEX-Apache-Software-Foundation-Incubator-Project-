@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Feb 08 2012",
+    "num_senders": 30,
+    "incubation_time": 10,
+    "status": "Graduated",
+    "intro": "Sqoop is a tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases.",
+    "end_time": "Mar 21 2012",
+    "start_time": "Jun 13 2011",
+    "commit_per_dev": 26.0,
+    "num_commits": 104,
+    "to": "Mar 09 2012",
+    "link": "http://incubator.apache.org/projects/sqoop.html",
+    "num_committers": 4,
+    "email_per_dev": 7.6,
+    "project_name": "Sqoop",
+    "num_emails": 228
+}

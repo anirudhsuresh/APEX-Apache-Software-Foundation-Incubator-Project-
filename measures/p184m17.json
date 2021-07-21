@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Oct 05 2012",
+    "num_senders": 81,
+    "incubation_time": 17,
+    "status": "Graduated",
+    "intro": "OpenOffice.org is comprised of six personal productivity applications: a word processor (and its web-authoring component), spreadsheet, presentation graphics, drawing, equation editor, and database.",
+    "end_time": "Oct 17 2012",
+    "start_time": "Jun 13 2011",
+    "commit_per_dev": 164.05,
+    "num_commits": 3445,
+    "to": "Nov 04 2012",
+    "link": "http://incubator.apache.org/projects/openofficeorg.html",
+    "num_committers": 21,
+    "email_per_dev": 11.69,
+    "project_name": "OpenOffice.org",
+    "num_emails": 947
+}

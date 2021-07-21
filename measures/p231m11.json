@@ -1,0 +1,18 @@
+{
+    "sponsor": "Lucene",
+    "from": "Jan 16 2008",
+    "num_senders": 15,
+    "incubation_time": 20,
+    "status": "Graduated",
+    "intro": "Content analysis toolkit",
+    "end_time": "Oct 28 2008",
+    "start_time": "Mar 22 2007",
+    "commit_per_dev": 19.5,
+    "num_commits": 39,
+    "to": "Feb 15 2008",
+    "link": "http://incubator.apache.org/projects/tika.html",
+    "num_committers": 2,
+    "email_per_dev": 2.6,
+    "project_name": "Tika",
+    "num_emails": 39
+}

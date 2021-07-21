@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Roman Shaposhnik)",
+    "from": "Feb 06 2017",
+    "num_senders": 21,
+    "incubation_time": 23,
+    "status": "Graduated",
+    "intro": "Big Data Machine Learning in SQL for Data Scientists.",
+    "end_time": "Jul 19 2017",
+    "start_time": "Sep 15 2015",
+    "commit_per_dev": 15.25,
+    "num_commits": 61,
+    "to": "Mar 08 2017",
+    "link": "http://incubator.apache.org/projects/madlib.html",
+    "num_committers": 4,
+    "email_per_dev": 3.0,
+    "project_name": "MADlib",
+    "num_emails": 63
+}

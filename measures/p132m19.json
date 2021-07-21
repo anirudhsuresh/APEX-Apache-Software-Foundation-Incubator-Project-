@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Feb 19 2006",
+    "num_senders": 66,
+    "incubation_time": 19,
+    "status": "Graduated",
+    "intro": "Content Repository API based on JSR 170",
+    "end_time": "Mar 15 2006",
+    "start_time": "Aug 28 2004",
+    "commit_per_dev": 110.67,
+    "num_commits": 664,
+    "to": "Mar 21 2006",
+    "link": "http://incubator.apache.org/projects/jackrabbit.html",
+    "num_committers": 6,
+    "email_per_dev": 9.42,
+    "project_name": "Jackrabbit",
+    "num_emails": 622
+}

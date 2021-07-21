@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Feb 17 2011",
+    "num_senders": 8,
+    "incubation_time": 20,
+    "status": "Graduated",
+    "intro": "A loose port of the Lucene search engine library, written in C and targeted at dynamic language users.",
+    "end_time": "Feb 22 2012",
+    "start_time": "Jul 22 2010",
+    "commit_per_dev": 459.0,
+    "num_commits": 459,
+    "to": "Mar 19 2011",
+    "link": "http://incubator.apache.org/projects/lucy.html",
+    "num_committers": 1,
+    "email_per_dev": 7.0,
+    "project_name": "Lucy",
+    "num_emails": 56
+}

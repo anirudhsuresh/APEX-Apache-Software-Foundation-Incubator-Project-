@@ -1,0 +1,10 @@
+created_date,author,file
+2009-01-09T08:25:26Z,34584,JpegPhotoshopMetadata.java
+2009-01-09T08:25:26Z,34584,IPTCBlock.java
+2009-01-09T08:25:26Z,34584,PngImageInfo.java
+2009-01-09T08:25:26Z,34584,PngText.java
+2009-01-18T08:24:24Z,34584,JpegRewriter.java
+2009-01-18T09:18:26Z,34584,TiffOutputSet.java
+2009-01-18T09:18:26Z,34584,IOUtils.java
+2009-01-18T09:18:26Z,34584,UnicodeUtils.java
+2009-01-18T09:18:26Z,34584,WriteExifMetadataExample.java

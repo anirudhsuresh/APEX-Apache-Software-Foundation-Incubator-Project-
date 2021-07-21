@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Benjamin Hindman)",
+    "from": "Nov 30 2013",
+    "num_senders": 17,
+    "incubation_time": 18,
+    "status": "Graduated",
+    "intro": "Aurora is a service scheduler used to schedule jobs onto Apache Mesos.",
+    "end_time": "Mar 18 2015",
+    "start_time": "Oct 01 2013",
+    "commit_per_dev": 24.43,
+    "num_commits": 171,
+    "to": "Dec 30 2013",
+    "link": "http://incubator.apache.org/projects/aurora.html",
+    "num_committers": 7,
+    "email_per_dev": 10.71,
+    "project_name": "Aurora",
+    "num_emails": 182
+}

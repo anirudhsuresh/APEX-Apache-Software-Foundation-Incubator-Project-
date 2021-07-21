@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jun 21 2011",
+    "num_senders": 21,
+    "incubation_time": 18,
+    "status": "Graduated",
+    "intro": "Java framework for building Semantic Web applications.",
+    "end_time": "Apr 18 2012",
+    "start_time": "Nov 23 2010",
+    "commit_per_dev": 366.67,
+    "num_commits": 1100,
+    "to": "Jul 21 2011",
+    "link": "http://incubator.apache.org/projects/jena.html",
+    "num_committers": 3,
+    "email_per_dev": 3.38,
+    "project_name": "Jena",
+    "num_emails": 71
+}

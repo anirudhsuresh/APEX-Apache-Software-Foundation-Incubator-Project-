@@ -1,0 +1,18 @@
+{
+    "sponsor": "Board (Bertrand Delacretaz)",
+    "from": "Dec 10 2011",
+    "num_senders": 25,
+    "incubation_time": 23,
+    "status": "Graduated",
+    "intro": "A modular software stack and reusable set of components for semantic content management",
+    "end_time": "Sep 19 2012",
+    "start_time": "Nov 15 2010",
+    "commit_per_dev": 35.89,
+    "num_commits": 323,
+    "to": "Jan 09 2012",
+    "link": "http://incubator.apache.org/projects/stanbol.html",
+    "num_committers": 9,
+    "email_per_dev": 5.12,
+    "project_name": "Stanbol",
+    "num_emails": 128
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Michael Stack)",
+    "from": "May 10 2014",
+    "num_senders": 17,
+    "incubation_time": 6,
+    "status": "Graduated",
+    "intro": "Phoenix is an open source SQL query engine for Apache HBase, a NoSQL data store. It is accessed as a JDBC driver and enables querying and managing HBase tables using SQL.",
+    "end_time": "May 21 2014",
+    "start_time": "Dec 11 2013",
+    "commit_per_dev": 87.2,
+    "num_commits": 436,
+    "to": "Jun 09 2014",
+    "link": "http://incubator.apache.org/projects/phoenix.html",
+    "num_committers": 5,
+    "email_per_dev": 4.12,
+    "project_name": "Phoenix",
+    "num_emails": 70
+}

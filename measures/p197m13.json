@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Owen O'Malley)",
+    "from": "Jul 19 2015",
+    "num_senders": 11,
+    "incubation_time": 31,
+    "status": "Graduated",
+    "intro": "    The Ranger project is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.    (The podling was originally called Argus)",
+    "end_time": "Jan 18 2017",
+    "start_time": "Jul 24 2014",
+    "commit_per_dev": 29.62,
+    "num_commits": 237,
+    "to": "Aug 18 2015",
+    "link": "http://incubator.apache.org/projects/ranger.html",
+    "num_committers": 8,
+    "email_per_dev": 3.82,
+    "project_name": "Ranger",
+    "num_emails": 42
+}

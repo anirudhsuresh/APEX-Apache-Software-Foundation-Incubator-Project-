@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Brian McCallister)",
+    "from": "Sep 26 2013",
+    "num_senders": 32,
+    "incubation_time": 6,
+    "status": "Graduated",
+    "intro": "A cloud agnostic library that enables developers to access a variety of supported cloud providers using one API",
+    "end_time": "Oct 16 2013",
+    "start_time": "Apr 29 2013",
+    "commit_per_dev": 100.7,
+    "num_commits": 1007,
+    "to": "Oct 26 2013",
+    "link": "http://incubator.apache.org/projects/jclouds.html",
+    "num_committers": 10,
+    "email_per_dev": 35.25,
+    "project_name": "jclouds",
+    "num_emails": 1128
+}

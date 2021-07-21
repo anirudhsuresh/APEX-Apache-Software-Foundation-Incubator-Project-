@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Suneel Marthi)",
+    "from": "Nov 25 2016",
+    "num_senders": 10,
+    "incubation_time": 23,
+    "status": "Retired",
+    "intro": "ARIA TOSCA project offers an easily consumable Software Development Kit(SDK) and a Command Line Interface(CLI) to implement TOSCA(Topology and Orchestration Specification of Cloud Applications) based solutions.",
+    "end_time": "Jul 01 2018",
+    "start_time": "Aug 27 2016",
+    "commit_per_dev": 1041.0,
+    "num_commits": 3123,
+    "to": "Dec 25 2016",
+    "link": "http://incubator.apache.org/projects/ariatosca.html",
+    "num_committers": 3,
+    "email_per_dev": 4.3,
+    "project_name": "AriaTosca",
+    "num_emails": 43
+}

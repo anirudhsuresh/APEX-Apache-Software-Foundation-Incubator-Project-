@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "May 01 2012",
+    "num_senders": 11,
+    "incubation_time": 15,
+    "status": "Graduated",
+    "intro": "MRUnit is a library to support unit testing of Hadoop MapReduce jobs.",
+    "end_time": "May 16 2012",
+    "start_time": "Mar 08 2011",
+    "commit_per_dev": 34.0,
+    "num_commits": 34,
+    "to": "May 31 2012",
+    "link": "http://incubator.apache.org/projects/mrunit.html",
+    "num_committers": 1,
+    "email_per_dev": 12.73,
+    "project_name": "MRUnit",
+    "num_emails": 140
+}

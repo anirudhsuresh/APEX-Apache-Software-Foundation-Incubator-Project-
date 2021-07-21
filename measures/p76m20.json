@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "May 25 2012",
+    "num_senders": 6,
+    "incubation_time": 46,
+    "status": "Graduated",
+    "intro": "Celix is an OSGi like implementation in C with a distinct focus on interoperability between Java and C.",
+    "end_time": "Jul 16 2014",
+    "start_time": "Nov 02 2010",
+    "commit_per_dev": 21.5,
+    "num_commits": 43,
+    "to": "Jun 24 2012",
+    "link": "http://incubator.apache.org/projects/celix.html",
+    "num_committers": 2,
+    "email_per_dev": 4.83,
+    "project_name": "Celix",
+    "num_emails": 29
+}

@@ -1,0 +1,17 @@
+created_date,author,file
+2018-01-10T08:48:31Z,42398,RulesService.java
+2018-01-10T08:48:31Z,42398,RulesServiceEndPoint.java
+2018-01-10T08:48:31Z,42398,RulesServiceImpl.java
+2018-01-11T09:14:25Z,42398,MailChimpServiceImpl.java
+2018-01-12T02:19:30Z,42398,SFDCServiceImpl.java
+2017-12-27T06:23:55Z,42398,SFDCConfiguration.java
+2017-12-27T06:23:55Z,42398,SFDCServiceImpl.java
+2018-01-16T06:21:17Z,42380,SFDCServiceImpl.java
+2018-01-03T01:50:55Z,42398,SFDCConfiguration.java
+2018-01-03T01:50:55Z,42398,SFDCServiceImpl.java
+2018-01-12T01:49:09Z,42398,SFDCConfiguration.java
+2018-01-12T01:49:09Z,42398,SFDCServiceImpl.java
+2018-01-17T06:58:55Z,42398,SFDCConfiguration.java
+2018-01-17T06:58:55Z,42398,SFDCServiceImpl.java
+2018-01-17T06:58:55Z,42398,MailChimpServiceImpl.java
+2018-01-17T06:58:55Z,42398,PropertyTypedObjectDeserializer.java

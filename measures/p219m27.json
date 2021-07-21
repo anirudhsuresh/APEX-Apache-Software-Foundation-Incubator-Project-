@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jul 08 2007",
+    "num_senders": 15,
+    "incubation_time": 31,
+    "status": "Graduated",
+    "intro": "The Apache C++ Standard Library project is a complete implementation of the ISO/IEC 14882 C++ Standard Library.",
+    "end_time": "Nov 14 2007",
+    "start_time": "May 19 2005",
+    "commit_per_dev": 38.67,
+    "num_commits": 116,
+    "to": "Aug 07 2007",
+    "link": "http://incubator.apache.org/projects/stdcxx.html",
+    "num_committers": 3,
+    "email_per_dev": 8.93,
+    "project_name": "stdcxx",
+    "num_emails": 134
+}

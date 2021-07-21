@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Oct 11 2011",
+    "num_senders": 18,
+    "incubation_time": 13,
+    "status": "Graduated",
+    "intro": "Flume is a distributed, reliable, and available system for efficiently collecting, aggregating, and moving large amounts of log data from many different sources to a centralized data store.",
+    "end_time": "Jun 20 2012",
+    "start_time": "Jun 13 2011",
+    "commit_per_dev": 363.0,
+    "num_commits": 726,
+    "to": "Nov 10 2011",
+    "link": "http://incubator.apache.org/projects/flume.html",
+    "num_committers": 2,
+    "email_per_dev": 12.83,
+    "project_name": "Flume",
+    "num_emails": 231
+}

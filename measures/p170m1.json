@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jan 15 2005",
+    "num_senders": 2,
+    "incubation_time": 5,
+    "status": "Graduated",
+    "intro": "Web search software.",
+    "end_time": "Jun 01 2005",
+    "start_time": "Jan 15 2005",
+    "commit_per_dev": 21.0,
+    "num_commits": 21,
+    "to": "Feb 14 2005",
+    "link": "http://incubator.apache.org/projects/nutch.html",
+    "num_committers": 1,
+    "email_per_dev": 0.5,
+    "project_name": "Nutch",
+    "num_emails": 1
+}

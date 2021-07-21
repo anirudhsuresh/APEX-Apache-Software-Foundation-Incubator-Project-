@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "May 30 2011",
+    "num_senders": 17,
+    "incubation_time": 13,
+    "status": "Graduated",
+    "intro": "Rave is A WEb And SOcial Mashup Engine.",
+    "end_time": "Mar 21 2012",
+    "start_time": "Mar 01 2011",
+    "commit_per_dev": 10.5,
+    "num_commits": 63,
+    "to": "Jun 29 2011",
+    "link": "http://incubator.apache.org/projects/rave.html",
+    "num_committers": 6,
+    "email_per_dev": 12.82,
+    "project_name": "Rave",
+    "num_emails": 218
+}

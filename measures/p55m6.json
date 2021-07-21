@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Rich Bowen)",
+    "from": "Nov 22 2012",
+    "num_senders": 11,
+    "incubation_time": 22,
+    "status": "Graduated",
+    "intro": "Forge software for the development of software projects, including source control systems, issue tracking, discussion, wiki, and other software project management tools.",
+    "end_time": "Mar 19 2014",
+    "start_time": "Jun 25 2012",
+    "commit_per_dev": 93.42,
+    "num_commits": 1121,
+    "to": "Dec 22 2012",
+    "link": "http://incubator.apache.org/projects/allura.html",
+    "num_committers": 12,
+    "email_per_dev": 3.18,
+    "project_name": "Allura",
+    "num_emails": 35
+}

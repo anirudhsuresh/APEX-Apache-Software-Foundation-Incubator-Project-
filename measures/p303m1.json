@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Feb 05 2007",
+    "num_senders": 7,
+    "incubation_time": 9,
+    "status": "Retired",
+    "intro": "SPARQL endpoint for your webserver. Project entering retired status after failing to get traction.",
+    "end_time": "Oct 18 2007",
+    "start_time": "Feb 05 2007",
+    "commit_per_dev": 74.0,
+    "num_commits": 74,
+    "to": "Mar 07 2007",
+    "link": "http://incubator.apache.org/projects/triplesoup.html",
+    "num_committers": 1,
+    "email_per_dev": 2.29,
+    "project_name": "TripleSoup",
+    "num_emails": 16
+}

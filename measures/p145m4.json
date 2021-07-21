@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Owen O Malley)",
+    "from": "Feb 23 2015",
+    "num_senders": 36,
+    "incubation_time": 12,
+    "status": "Graduated",
+    "intro": "Kylin is a distributed and scalable OLAP engine built on Hadoop to support extremely large datasets.",
+    "end_time": "Nov 18 2015",
+    "start_time": "Nov 25 2014",
+    "commit_per_dev": 106.5,
+    "num_commits": 1065,
+    "to": "Mar 25 2015",
+    "link": "http://incubator.apache.org/projects/kylin.html",
+    "num_committers": 10,
+    "email_per_dev": 7.78,
+    "project_name": "Kylin",
+    "num_emails": 280
+}

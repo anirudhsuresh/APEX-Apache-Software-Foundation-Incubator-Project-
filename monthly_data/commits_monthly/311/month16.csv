@@ -1,0 +1,12 @@
+created_date,author,file
+2011-08-21T00:27:49Z,45917,string_function_test.php
+2011-08-21T00:27:49Z,45917,suite.php
+2011-08-21T00:27:49Z,45917,upper_to_lower.php
+2011-08-21T00:27:49Z,45917,lower_to_upper.php
+2011-08-21T00:27:49Z,45917,string_code.php
+2011-08-21T00:27:49Z,45917,string_functions.php
+2011-08-21T00:27:49Z,45917,template_autoload.php
+2011-08-21T00:27:49Z,45917,generate_unicode_tables.php
+2011-08-21T00:27:49Z,45917,regression_test.php
+2011-08-21T00:27:49Z,45917,string_functions.in
+2011-08-21T00:27:49Z,45917,string_functions.out

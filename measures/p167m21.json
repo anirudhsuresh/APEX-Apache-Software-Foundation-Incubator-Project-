@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Marvin Humphrey)",
+    "from": "Jun 11 2017",
+    "num_senders": 14,
+    "incubation_time": 21,
+    "status": "Graduated",
+    "intro": "Mynewt is a real-time operating system for constrained embedded systems like wearables, lightbulbs, locks and doorbells. It works on a variety of 32-bit MCUs (microcontrollers), including ARM Cortex-M and MIPS architectures.",
+    "end_time": "Jun 21 2017",
+    "start_time": "Oct 20 2015",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Jul 11 2017",
+    "link": "http://incubator.apache.org/projects/mynewt.html",
+    "num_committers": 0,
+    "email_per_dev": 1.36,
+    "project_name": "Mynewt",
+    "num_emails": 19
+}

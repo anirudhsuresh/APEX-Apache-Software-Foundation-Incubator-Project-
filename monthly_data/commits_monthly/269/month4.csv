@@ -1,0 +1,13 @@
+created_date,author,file
+2016-08-02T14:20:25Z,17922,GossipMember.java
+2016-08-02T14:20:25Z,17922,RemoteGossipMember.java
+2016-08-02T14:20:25Z,17922,StartupSettings.java
+2016-08-12T17:07:48Z,17918,GossipService.java
+2016-08-12T17:07:48Z,17918,ActiveGossipThread.java
+2016-08-12T17:07:48Z,17918,GossipCore.java
+2016-08-12T17:07:48Z,17918,GossipManager.java
+2016-08-12T17:07:48Z,17918,RandomActiveGossipThread.java
+2016-08-12T17:07:48Z,17918,Base.java
+2016-08-12T17:07:48Z,17918,GossipDataMessage.java
+2016-08-12T17:07:48Z,17918,UdpGossipDataMessage.java
+2016-08-12T17:07:48Z,17918,DataTest.java

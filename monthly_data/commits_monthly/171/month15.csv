@@ -1,0 +1,13 @@
+created_date,author,file
+2011-08-25T08:46:03Z,28218,AmazonDataServiceImpl.java
+2011-08-25T08:46:03Z,28218,AmazonDataServiceClientFactory.java
+2011-08-25T08:46:03Z,28218,AmazonDataServiceImplTestCase.java
+2011-08-25T08:46:03Z,28218,MockAmazonSimpleDBClient.java
+2011-08-25T08:46:03Z,28218,DataService.java
+2011-08-25T08:46:03Z,28218,DataServiceUtil.java
+2011-08-25T08:46:03Z,28218,Element.java
+2011-08-25T08:46:03Z,28218,Feature.java
+2011-08-25T08:46:03Z,28218,GoogleDataServiceImpl.java
+2011-08-25T08:46:03Z,28218,GoogleDataServiceImplTestCase.java
+2011-08-25T08:46:03Z,28218,CassandraDataServiceImpl.java
+2011-08-25T08:46:03Z,28218,CassandraDataServiceImplTestCase.java

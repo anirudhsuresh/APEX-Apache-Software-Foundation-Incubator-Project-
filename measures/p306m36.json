@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Oct 19 2013",
+    "num_senders": 9,
+    "incubation_time": 87,
+    "status": "Retired",
+    "intro": "A wave is a hosted, live, concurrent data structure for rich communication. It can be used like email, chat, or a document.",
+    "end_time": "Jan 15 2018",
+    "start_time": "Dec 04 2010",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Nov 18 2013",
+    "link": "http://incubator.apache.org/projects/wave.html",
+    "num_committers": 0,
+    "email_per_dev": 1.67,
+    "project_name": "Wave",
+    "num_emails": 15
+}

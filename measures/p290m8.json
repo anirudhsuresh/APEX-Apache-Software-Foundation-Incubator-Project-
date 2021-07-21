@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Paul Fremantle)",
+    "from": "Aug 18 2015",
+    "num_senders": 4,
+    "incubation_time": 20,
+    "status": "Retired",
+    "intro": "Tools and libraries for developing Attribute-based Access Control (ABAC) Systems in a variety of languages. Retired for lack of activity",
+    "end_time": "Aug 26 2016",
+    "start_time": "Jan 20 2015",
+    "commit_per_dev": 5.0,
+    "num_commits": 5,
+    "to": "Sep 17 2015",
+    "link": "http://incubator.apache.org/projects/openaz.html",
+    "num_committers": 1,
+    "email_per_dev": 1.5,
+    "project_name": "OpenAz",
+    "num_emails": 6
+}

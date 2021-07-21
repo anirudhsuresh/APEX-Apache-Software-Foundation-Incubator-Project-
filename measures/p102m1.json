@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 02 2008",
+    "num_senders": 11,
+    "incubation_time": 25,
+    "status": "Graduated",
+    "intro": "Enterprise Social Messaging Experiment (ESME) is a secure and highly scalable microsharing and micromessaging platform that allows people to discover and meet one another and get controlled access to other sources of information, all in a business process context.",
+    "end_time": "Dec 15 2010",
+    "start_time": "Dec 02 2008",
+    "commit_per_dev": 79.0,
+    "num_commits": 158,
+    "to": "Jan 01 2009",
+    "link": "http://incubator.apache.org/projects/esme.html",
+    "num_committers": 2,
+    "email_per_dev": 4.0,
+    "project_name": "ESME",
+    "num_emails": 44
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Nov 25 2008",
+    "num_senders": 14,
+    "incubation_time": 17,
+    "status": "Graduated",
+    "intro": "Buildr is a simple and intuitive build system for Java projects written in Ruby.",
+    "end_time": "Feb 23 2009",
+    "start_time": "Nov 01 2007",
+    "commit_per_dev": 1.0,
+    "num_commits": 1,
+    "to": "Dec 25 2008",
+    "link": "http://incubator.apache.org/projects/buildr.html",
+    "num_committers": 1,
+    "email_per_dev": 3.71,
+    "project_name": "Buildr",
+    "num_emails": 52
+}

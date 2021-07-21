@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Billie Rinaldi)",
+    "from": "Dec 14 2016",
+    "num_senders": 0,
+    "incubation_time": 11,
+    "status": "Retired",
+    "intro": "Pirk is a framework for scalable Private Information Retrieval (PIR). Retired due to inactivity.",
+    "end_time": "Apr 17 2017",
+    "start_time": "Jun 17 2016",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Jan 13 2017",
+    "link": "http://incubator.apache.org/projects/pirk.html",
+    "num_committers": 0,
+    "email_per_dev": 0,
+    "project_name": "Pirk",
+    "num_emails": 0
+}

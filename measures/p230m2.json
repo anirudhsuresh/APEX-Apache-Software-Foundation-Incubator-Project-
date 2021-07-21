@@ -1,0 +1,18 @@
+{
+    "sponsor": "Lucene (Doug Cutting)",
+    "from": "May 18 2008",
+    "num_senders": 29,
+    "incubation_time": 31,
+    "status": "Graduated",
+    "intro": "Cross-language serialization and RPC framework.",
+    "end_time": "Oct 20 2010",
+    "start_time": "Apr 18 2008",
+    "commit_per_dev": 182.5,
+    "num_commits": 365,
+    "to": "Jun 17 2008",
+    "link": "http://incubator.apache.org/projects/thrift.html",
+    "num_committers": 2,
+    "email_per_dev": 5.24,
+    "project_name": "Thrift",
+    "num_emails": 152
+}

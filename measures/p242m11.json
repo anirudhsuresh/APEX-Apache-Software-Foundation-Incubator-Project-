@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jul 30 2014",
+    "num_senders": 24,
+    "incubation_time": 23,
+    "status": "Graduated",
+    "intro": "Usergrid is Backend-as-a-Service (BaaS) composed of an integrated database (Cassandra), application layer and client tier with SDKs for developers.",
+    "end_time": "Aug 19 2015",
+    "start_time": "Oct 03 2013",
+    "commit_per_dev": 276.31,
+    "num_commits": 3592,
+    "to": "Aug 29 2014",
+    "link": "http://incubator.apache.org/projects/usergrid.html",
+    "num_committers": 13,
+    "email_per_dev": 3.88,
+    "project_name": "Usergrid",
+    "num_emails": 93
+}

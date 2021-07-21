@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Luciano Resende)",
+    "from": "Sep 27 2016",
+    "num_senders": 23,
+    "incubation_time": 19,
+    "status": "Graduated",
+    "intro": "SystemML provides declarative large-scale machine learning (ML) that aims at flexible specification of ML algorithms and automatic generation of hybrid runtime plans ranging from single node, in-memory computations, to distributed computations such as Apache Hadoop MapReduce and Apache Spark.",
+    "end_time": "May 18 2017",
+    "start_time": "Nov 02 2015",
+    "commit_per_dev": 79.2,
+    "num_commits": 792,
+    "to": "Oct 27 2016",
+    "link": "http://incubator.apache.org/projects/systemml.html",
+    "num_committers": 10,
+    "email_per_dev": 7.26,
+    "project_name": "SystemML",
+    "num_emails": 167
+}

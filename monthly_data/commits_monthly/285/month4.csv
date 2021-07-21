@@ -1,0 +1,17 @@
+created_date,author,file
+2013-06-18T15:20:52Z,25216,mrql-env.sh
+2013-06-18T15:20:52Z,25216,AlgebraicOptimization.gen
+2013-06-18T15:20:52Z,25216,BSPPlan.java
+2013-06-18T15:20:52Z,25216,BSPTranslator.gen
+2013-06-18T15:20:52Z,25216,Compiler.gen
+2013-06-18T15:20:52Z,25216,Interpreter.gen
+2013-06-18T15:20:52Z,25216,MapReduceAlgebra.java
+2013-06-18T15:20:52Z,25216,Normalization.gen
+2013-06-18T15:20:52Z,25216,PlanGeneration.gen
+2013-06-18T15:20:52Z,25216,QueryPlan.gen
+2013-06-18T15:20:52Z,25216,Simplification.gen
+2013-06-18T15:20:52Z,25216,TopLevel.gen
+2013-06-18T15:20:52Z,25216,Tuple.java
+2013-06-18T15:20:52Z,25216,TypeInference.gen
+2013-06-18T15:20:52Z,25216,factozization_1.mrql
+2013-06-18T15:20:52Z,25216,xml_2.mrql

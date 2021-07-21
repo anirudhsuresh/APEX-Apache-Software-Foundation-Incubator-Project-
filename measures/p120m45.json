@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Dec 31 2011",
+    "num_senders": 8,
+    "incubation_time": 49,
+    "status": "Graduated",
+    "intro": "Hama is a distributed computing framework based on BSP (Bulk Synchronous Parallel) computing techniques for massive scientific computations, e.g., matrix, graph and network algorithms.",
+    "end_time": "May 16 2012",
+    "start_time": "May 20 2008",
+    "commit_per_dev": 15.5,
+    "num_commits": 31,
+    "to": "Jan 30 2012",
+    "link": "http://incubator.apache.org/projects/hama.html",
+    "num_committers": 2,
+    "email_per_dev": 11.5,
+    "project_name": "Hama",
+    "num_emails": 92
+}

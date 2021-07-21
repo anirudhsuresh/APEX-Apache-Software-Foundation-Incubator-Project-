@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jan 09 2015",
+    "num_senders": 9,
+    "incubation_time": 16,
+    "status": "Graduated",
+    "intro": "REEF (Retainable Evaluator Execution Framework) is a scale-out computing fabric that eases the development of Big Data applications on top of resource managers such as Apache YARN and Mesos.",
+    "end_time": "Nov 18 2015",
+    "start_time": "Aug 12 2014",
+    "commit_per_dev": 418.62,
+    "num_commits": 3349,
+    "to": "Feb 08 2015",
+    "link": "http://incubator.apache.org/projects/reef.html",
+    "num_committers": 8,
+    "email_per_dev": 7.67,
+    "project_name": "REEF",
+    "num_emails": 69
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Oct 31 2016",
+    "num_senders": 41,
+    "incubation_time": 17,
+    "status": "Graduated",
+    "intro": "Metron is a project dedicated to providing an extensible and scalable advanced network security analytics tool. It has strong foundations in the Apache Hadoop ecosystem.",
+    "end_time": "Apr 19 2017",
+    "start_time": "Dec 06 2015",
+    "commit_per_dev": 39.6,
+    "num_commits": 396,
+    "to": "Nov 30 2016",
+    "link": "http://incubator.apache.org/projects/metron.html",
+    "num_committers": 10,
+    "email_per_dev": 11.78,
+    "project_name": "Metron",
+    "num_emails": 483
+}

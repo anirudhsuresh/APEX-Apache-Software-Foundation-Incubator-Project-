@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Bertrand Delacretaz)",
+    "from": "Feb 28 2012",
+    "num_senders": 134,
+    "incubation_time": 12,
+    "status": "Graduated",
+    "intro": "Application framework for building Flash-based applications.",
+    "end_time": "Dec 19 2012",
+    "start_time": "Dec 30 2011",
+    "commit_per_dev": 19.4,
+    "num_commits": 97,
+    "to": "Mar 29 2012",
+    "link": "http://incubator.apache.org/projects/flex.html",
+    "num_committers": 5,
+    "email_per_dev": 7.88,
+    "project_name": "Flex",
+    "num_emails": 1056
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Ross Gardler)",
+    "from": "Jun 12 2016",
+    "num_senders": 21,
+    "incubation_time": 17,
+    "status": "Graduated",
+    "intro": "Fineract is an open source system for core banking as a platform.",
+    "end_time": "Apr 19 2017",
+    "start_time": "Dec 15 2015",
+    "commit_per_dev": 99.0,
+    "num_commits": 495,
+    "to": "Jul 12 2016",
+    "link": "http://incubator.apache.org/projects/fineract.html",
+    "num_committers": 5,
+    "email_per_dev": 2.62,
+    "project_name": "Fineract",
+    "num_emails": 55
+}

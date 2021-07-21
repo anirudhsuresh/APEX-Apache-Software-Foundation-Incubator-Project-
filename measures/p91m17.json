@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Mar 31 2013",
+    "num_senders": 19,
+    "incubation_time": 18,
+    "status": "Graduated",
+    "intro": "DeltaSpike is a collection of JSR-299 (CDI) Extensions for building applications on the Java SE and EE platforms.",
+    "end_time": "May 28 2013",
+    "start_time": "Dec 07 2011",
+    "commit_per_dev": 118.0,
+    "num_commits": 354,
+    "to": "Apr 30 2013",
+    "link": "http://incubator.apache.org/projects/deltaspike.html",
+    "num_committers": 3,
+    "email_per_dev": 3.05,
+    "project_name": "DeltaSpike",
+    "num_emails": 58
+}

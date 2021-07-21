@@ -1,0 +1,18 @@
+{
+    "sponsor": "Board",
+    "from": "May 18 2004",
+    "num_senders": 24,
+    "incubation_time": 7,
+    "status": "Graduated",
+    "intro": "Mail filter to identify spam.",
+    "end_time": "Jun 23 2004",
+    "start_time": "Dec 20 2003",
+    "commit_per_dev": 26.25,
+    "num_commits": 210,
+    "to": "Jun 17 2004",
+    "link": "http://incubator.apache.org/projects/spamassassin.html",
+    "num_committers": 8,
+    "email_per_dev": 2.33,
+    "project_name": "SpamAssassin",
+    "num_emails": 56
+}

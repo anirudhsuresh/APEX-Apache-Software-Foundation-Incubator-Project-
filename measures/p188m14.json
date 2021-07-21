@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Mar 03 2009",
+    "num_senders": 20,
+    "incubation_time": 21,
+    "status": "Graduated",
+    "intro": "PDF library (reading, text extraction, manipulation, viewer)",
+    "end_time": "Oct 21 2009",
+    "start_time": "Feb 07 2008",
+    "commit_per_dev": 21.6,
+    "num_commits": 108,
+    "to": "Apr 02 2009",
+    "link": "http://incubator.apache.org/projects/pdfbox.html",
+    "num_committers": 5,
+    "email_per_dev": 2.8,
+    "project_name": "PDFBox",
+    "num_emails": 56
+}

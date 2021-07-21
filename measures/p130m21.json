@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Apr 29 2012",
+    "num_senders": 4,
+    "incubation_time": 26,
+    "status": "Graduated",
+    "intro": "The Isis project will be an extensible standards-based framework to rapidly develop and enterprise level deploy domain-driven (DDD) applications.",
+    "end_time": "Oct 17 2012",
+    "start_time": "Sep 07 2010",
+    "commit_per_dev": 138.5,
+    "num_commits": 277,
+    "to": "May 29 2012",
+    "link": "http://incubator.apache.org/projects/isis.html",
+    "num_committers": 2,
+    "email_per_dev": 2.0,
+    "project_name": "Isis",
+    "num_emails": 8
+}

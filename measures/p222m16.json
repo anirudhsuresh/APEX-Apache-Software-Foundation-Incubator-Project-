@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Matt Franklin)",
+    "from": "Feb 13 2014",
+    "num_senders": 12,
+    "incubation_time": 57,
+    "status": "Graduated",
+    "intro": "Apache Streams is a lightweight server for ActivityStreams.",
+    "end_time": "Jul 19 2017",
+    "start_time": "Nov 20 2012",
+    "commit_per_dev": 139.5,
+    "num_commits": 279,
+    "to": "Mar 15 2014",
+    "link": "http://incubator.apache.org/projects/streams.html",
+    "num_committers": 2,
+    "email_per_dev": 2.83,
+    "project_name": "Streams",
+    "num_emails": 34
+}

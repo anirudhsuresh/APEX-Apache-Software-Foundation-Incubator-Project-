@@ -1,0 +1,11 @@
+created_date,author,file
+2012-05-08T12:37:23Z,4483,CacheServiceProvider.java
+2012-05-08T12:37:23Z,4483,DirectMemoryModule.java
+2012-05-22T15:39:49Z,4099,CacheServiceImpl.java
+2012-05-22T15:53:38Z,4099,DirectMemoryClientConfiguration.java
+2012-05-22T15:53:38Z,4099,AsyncHttpClientDirectMemoryHttpClient.java
+2012-05-22T15:53:38Z,4099,AsyncHttpClientTest.java
+2012-05-22T16:03:07Z,4099,DirectMemoryClientConfiguration.java
+2012-05-22T16:03:07Z,4099,AsyncHttpClientDirectMemoryHttpClient.java
+2012-05-25T15:30:32Z,4099,Sizing.java
+2012-05-25T15:32:33Z,4099,AbstractServletWithClientTest.java

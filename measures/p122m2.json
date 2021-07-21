@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Roman Shaposhnik)",
+    "from": "Oct 04 2015",
+    "num_senders": 46,
+    "incubation_time": 36,
+    "status": "Graduated",
+    "intro": "HAWQ is an advanced enterprise SQL on Hadoop analytic engine built around a robust and high-performance massively-parallel processing (MPP) SQL framework evolved from Pivotal Greenplum Database.",
+    "end_time": "Aug 15 2018",
+    "start_time": "Sep 04 2015",
+    "commit_per_dev": 44.72,
+    "num_commits": 805,
+    "to": "Nov 03 2015",
+    "link": "http://incubator.apache.org/projects/hawq.html",
+    "num_committers": 18,
+    "email_per_dev": 4.61,
+    "project_name": "HAWQ",
+    "num_emails": 212
+}

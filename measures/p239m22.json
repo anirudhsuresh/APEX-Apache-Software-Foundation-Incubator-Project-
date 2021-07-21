@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Vinod K)",
+    "from": "Aug 06 2015",
+    "num_senders": 4,
+    "incubation_time": 32,
+    "status": "Graduated",
+    "intro": "Twill is an abstraction over Apache Hadoop YARN that reduces the complexity of developing distributed applications, allowing developers to focus more on their business logic",
+    "end_time": "Jun 15 2016",
+    "start_time": "Nov 14 2013",
+    "commit_per_dev": 1.0,
+    "num_commits": 1,
+    "to": "Sep 05 2015",
+    "link": "http://incubator.apache.org/projects/twill.html",
+    "num_committers": 1,
+    "email_per_dev": 0.75,
+    "project_name": "Twill",
+    "num_emails": 3
+}

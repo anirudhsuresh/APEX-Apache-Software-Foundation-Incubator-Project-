@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Mar 18 2007",
+    "num_senders": 17,
+    "incubation_time": 38,
+    "status": "Retired",
+    "intro": "Declarative framework for building Ajax-powered web apps",
+    "end_time": "Jun 26 2009",
+    "start_time": "May 22 2006",
+    "commit_per_dev": 45.5,
+    "num_commits": 91,
+    "to": "Apr 17 2007",
+    "link": "http://incubator.apache.org/projects/xap.html",
+    "num_committers": 2,
+    "email_per_dev": 10.0,
+    "project_name": "XAP",
+    "num_emails": 170
+}

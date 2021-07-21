@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Chris Mattmann)",
+    "from": "Oct 26 2015",
+    "num_senders": 28,
+    "incubation_time": 14,
+    "status": "Graduated",
+    "intro": "Apache AsterixDB is a scalable big data management system (BDMS) that provides storage, management, and query capabilities for large collections of semi-structured data.",
+    "end_time": "Apr 20 2016",
+    "start_time": "Feb 28 2015",
+    "commit_per_dev": 401.92,
+    "num_commits": 4823,
+    "to": "Nov 25 2015",
+    "link": "http://incubator.apache.org/projects/asterixdb.html",
+    "num_committers": 12,
+    "email_per_dev": 4.89,
+    "project_name": "AsterixDB",
+    "num_emails": 137
+}

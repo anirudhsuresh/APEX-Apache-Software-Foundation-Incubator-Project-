@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Apr 26 2009",
+    "num_senders": 12,
+    "incubation_time": 11,
+    "status": "Graduated",
+    "intro": "A platform for building rich internet applications in Java.",
+    "end_time": "Dec 16 2009",
+    "start_time": "Jan 26 2009",
+    "commit_per_dev": 216.67,
+    "num_commits": 650,
+    "to": "May 26 2009",
+    "link": "http://incubator.apache.org/projects/pivot.html",
+    "num_committers": 3,
+    "email_per_dev": 10.5,
+    "project_name": "Pivot",
+    "num_emails": 126
+}

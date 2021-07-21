@@ -1,0 +1,18 @@
+{
+    "sponsor": "Web Services",
+    "from": "Jan 06 2006",
+    "num_senders": 29,
+    "incubation_time": 30,
+    "status": "Graduated",
+    "intro": "Service Component Architecture implementation",
+    "end_time": "May 21 2008",
+    "start_time": "Dec 07 2005",
+    "commit_per_dev": 52.25,
+    "num_commits": 418,
+    "to": "Feb 05 2006",
+    "link": "http://incubator.apache.org/projects/tuscany.html",
+    "num_committers": 8,
+    "email_per_dev": 7.38,
+    "project_name": "Tuscany",
+    "num_emails": 214
+}

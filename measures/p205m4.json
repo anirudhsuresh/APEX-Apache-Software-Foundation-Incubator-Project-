@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Carsten Ziegeler)",
+    "from": "Dec 08 2007",
+    "num_senders": 5,
+    "incubation_time": 23,
+    "status": "Graduated",
+    "intro": "The Sanselan Project is a pure-java image library for reading and writing a variety of image formats.",
+    "end_time": "Jun 30 2009",
+    "start_time": "Sep 09 2007",
+    "commit_per_dev": 66.0,
+    "num_commits": 198,
+    "to": "Jan 07 2008",
+    "link": "http://incubator.apache.org/projects/sanselan.html",
+    "num_committers": 3,
+    "email_per_dev": 1.0,
+    "project_name": "Sanselan",
+    "num_emails": 5
+}

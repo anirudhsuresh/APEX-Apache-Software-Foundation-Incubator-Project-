@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Oct 06 2010",
+    "num_senders": 24,
+    "incubation_time": 50,
+    "status": "Graduated",
+    "intro": "River : Jini technology",
+    "end_time": "Jan 19 2011",
+    "start_time": "Dec 26 2006",
+    "commit_per_dev": 43.25,
+    "num_commits": 173,
+    "to": "Nov 05 2010",
+    "link": "http://incubator.apache.org/projects/river.html",
+    "num_committers": 4,
+    "email_per_dev": 13.88,
+    "project_name": "River",
+    "num_emails": 333
+}

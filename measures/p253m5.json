@@ -1,0 +1,18 @@
+{
+    "sponsor": "Jakarta",
+    "from": "Jan 27 2005",
+    "num_senders": 3,
+    "incubation_time": 27,
+    "status": "Retired",
+    "intro": "Extensible Business Process Management (BPM) engine core. Project activity transferred to another Incubator project - ODE.",
+    "end_time": "Dec 05 2006",
+    "start_time": "Sep 29 2004",
+    "commit_per_dev": 3.0,
+    "num_commits": 3,
+    "to": "Feb 26 2005",
+    "link": "http://incubator.apache.org/projects/agila.html",
+    "num_committers": 1,
+    "email_per_dev": 2.67,
+    "project_name": "Agila",
+    "num_emails": 8
+}

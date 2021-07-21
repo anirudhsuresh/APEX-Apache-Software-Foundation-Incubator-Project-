@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Feb 13 2011",
+    "num_senders": 22,
+    "incubation_time": 18,
+    "status": "Graduated",
+    "intro": "Deltacloud, cloud API (REST) and abstraction framework",
+    "end_time": "Oct 26 2011",
+    "start_time": "May 19 2010",
+    "commit_per_dev": 30.0,
+    "num_commits": 90,
+    "to": "Mar 15 2011",
+    "link": "http://incubator.apache.org/projects/deltacloud.html",
+    "num_committers": 3,
+    "email_per_dev": 4.09,
+    "project_name": "Deltacloud",
+    "num_emails": 90
+}

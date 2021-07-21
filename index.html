@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>New flexbox</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="./style.css">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/>
+<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+
+
+<script type="text/javascript" src="//code.jquery.com/jquery-compat-git.js"> </script>
+<style>
+
+/* @media (max-width: 400px) {
+  .main {
+    flex-direction: column;
+  }
+}   */
+body{
+  background-color:teal;
+}
+.main{
+  background-color:teal;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+}
+.box {
+  background-color:black;
+  margin: 5px; 
+  color: white;
+  resize: both;
+  overflow: auto;
+  /* padding: 30px; */
+}
+
+.one {
+   display: flex; 
+   height: 220px;
+   min-height: 220px;
+
+
+}
+
+.a1 {
+  flex: 1;
+
+}
+.a2 {
+  flex: 1;
+
+}
+.b {
+  flex: 2;
+}
+
+.second_pane {
+   display: flex; 
+   height: 820px;
+
+   
+}
+.three {
+  flex: 1;
+  /* display: flex; */
+ 
+}
+.four {
+  flex: 6;
+    display: flex;
+}
+
+.five {
+  flex: 2;
+
+}
+.six {
+  flex: 2;
+  display: flex;
+}
+.f {
+  flex: 1;
+  height:122px;
+  text-align: center;
+}
+
+.e {
+  flex: 1;
+  height:102px;
+  
+}
+
+
+.c {
+  flex: 2;
+  height:310px
+}
+.d {
+  flex: 2;
+  height:345px
+}
+.s{
+    flex :2;
+    min-height :380px ;
+    /* display: inline-block; */
+     /* margin: 0 auto; */
+}
+.five1 {
+  flex: 2;
+
+}
+.five2 {
+  flex: 2;
+  /* flex-shrink:10; */
+
+}
+
+@media (max-width: 768px) { /*breakpoint*/
+  .one {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 768px) { /*breakpoint*/
+  .three {
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) { /*breakpoint*/
+  .second_pane {
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) { /*breakpoint*/
+  .four {
+    flex-direction: column;
+  }
+}
+line{
+	stroke:grey;
+}
+
+/* new slider */
+
+
+
+</style>
+</head>
+<body>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <script src="project_info.js"></script>
+
+    <div class="title">
+        <div id="home" class="popupTitle">
+          <a><img src="feather-16.png" width="25" height="20"></a>
+          <a class="new" href="https://github.com/lkyin/ASFI_Project_Explorer" target="_blank">ASFI Project Explorer (APEX)</a> 
+          
+      </div>
+      
+      </div>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="chart_mouseover.js"></script>
+
+<div class="main">
+        <div class="one">
+            <!-- <div class="a box" style="text-align:left";>  -->
+              <div class="a1 box" style="text-align:center";>
+
+    <header>Project Selector </header>
+        <br>
+        <p>
+        <label>
+        Project
+        
+            <input type="text" id="txt_ide" list="project_n" placeholder="Select a project here :)" oninput="myFunction();updateAll(); UpdateMaxIncubation();make_chart();"/> 
+            <datalist id="project_n"> 
+              <option value="Abdera [graduated]"/>
+              <option value="Accumulo [graduated]"/>
+              <option value="Ace [graduated]"/>
+              <option value="Activemq [graduated]"/>
+              <option value="Agila [retired]"/>
+              <option value="Airavata [graduated]"/>
+              <option value="Airflow [graduated]"/>
+              <option value="Allura [graduated]"/>
+              <option value="Alois [retired]"/>
+              <option value="Ambari [graduated]"/>
+              <option value="Amber [graduated]"/>
+              <option value="Any23 [graduated]"/>
+              <option value="Ariatosca [retired]"/>
+              <option value="Aries [graduated]"/>
+              <option value="Asterixdb [graduated]"/>
+              <option value="Atlas [graduated]"/>
+              <option value="Aurora [graduated]"/>
+              <option value="Awf [retired]"/>
+              <option value="Beam [graduated]"/>
+              <option value="Bean validation [graduated]"/>
+              <option value="Beehive [graduated]"/>
+              <option value="Bigtop [graduated]"/>
+              <option value="Bluesky [retired]"/>
+              <option value="Blur [retired]"/>
+              <option value="Brooklyn [graduated]"/>
+              <option value="Buildr [graduated]"/>
+              <option value="Calcite [graduated]"/>
+              <option value="Carbondata [graduated]"/>
+              <option value="Cassandra [graduated]"/>
+              <option value="Cayenne [graduated]"/>
+              <option value="Celix [graduated]"/>
+              <option value="Chemistry [graduated]"/>
+              <option value="Chukwa [graduated]"/>
+              <option value="Clerezza [graduated]"/>
+              <option value="Click [graduated]"/>
+              <option value="Climate model diagnostic analyzer [retired]"/>
+              <option value="Cloudstack [graduated]"/>
+              <option value="Commonsrdf [graduated]"/>
+              <option value="Concerted [retired]"/>
+              <option value="Cordova [graduated]"/>
+              <option value="Corinthia [retired]"/>
+              <option value="Couchdb [graduated]"/>
+              <option value="Crunch [graduated]"/>
+              <option value="Ctakes [graduated]"/>
+              <option value="Curator [graduated]"/>
+              <option value="Cxf [graduated]"/>
+              <option value="Datafu [graduated]"/>
+              <option value="Deltacloud [graduated]"/>
+              <option value="Deltaspike [graduated]"/>
+              <option value="Derby [graduated]"/>
+              <option value="Devicemap [graduated]"/>
+              <option value="Directmemory [graduated]"/>
+              <option value="Directory [graduated]"/>
+              <option value="Distributedlog [graduated]"/>
+              <option value="Drill [graduated]"/>
+              <option value="Droids [retired]"/>
+              <option value="Dubbo [graduated]"/>
+              <option value="Eagle [graduated]"/>
+              <option value="Easyant [graduated]"/>
+              <option value="Empire-db [graduated]"/>
+              <option value="Esme [graduated]"/>
+              <option value="Etch [graduated]"/>
+              <option value="Falcon [graduated]"/>
+              <option value="Felix [graduated]"/>
+              <option value="Fineract [graduated]"/>
+              <option value="Flex [graduated]"/>
+              <option value="Flink [graduated]"/>
+              <option value="Flume [graduated]"/>
+              <option value="Fluo [graduated]"/>
+              <option value="Ftpserver [graduated]"/>
+              <option value="Gearpump [retired]"/>
+              <option value="Geode [graduated]"/>
+              <option value="Giraph [graduated]"/>
+              <option value="Gora [graduated]"/>
+              <option value="Gossip [retired]"/>
+              <option value="Graffito [retired]"/>
+              <option value="Griffin [graduated]"/>
+              <option value="Groovy [graduated]"/>
+              <option value="Guacamole [graduated]"/>
+              <option value="Hadoop development tools (hdt) [retired]"/>
+              <option value="Hama [graduated]"/>
+              <option value="Harmony [graduated]"/>
+              <option value="Hawq [graduated]"/>
+              <option value="Hcatalog [graduated]"/>
+              <option value="Helix [graduated]"/>
+              <option value="Heraldry [retired]"/>
+              <option value="Hise [retired]"/>
+              <option value="Ibatis [graduated]"/>
+              <option value="Ignite [graduated]"/>
+              <option value="Impala [graduated]"/>
+              <option value="Imperius [retired]"/>
+              <option value="Iota [retired]"/>
+              <option value="Isis [graduated]"/>
+              <option value="Ivy [graduated]"/>
+              <option value="Jackrabbit [graduated]"/>
+              <option value="Jclouds [graduated]"/>
+              <option value="Jdo [graduated]"/>
+              <option value="Jena [graduated]"/>
+              <option value="Johnzon [graduated]"/>
+              <option value="Joshua [graduated]"/>
+              <option value="Jspwiki [graduated]"/>
+              <option value="Juneau [graduated]"/>
+              <option value="Kafka [graduated]"/>
+              <option value="Kalumet [retired]"/>
+              <option value="Kato [retired]"/>
+              <option value="Knox [graduated]"/>
+              <option value="Kudu [graduated]"/>
+              <option value="Kylin [graduated]"/>
+              <option value="Lens [graduated]"/>
+              <option value="Lokahi [retired]"/>
+              <option value="Lucene.net [graduated]"/>
+              <option value="Lucy [graduated]"/>
+              <option value="Madlib [graduated]"/>
+              <option value="Manifoldcf [graduated]"/>
+              <option value="Marmotta [graduated]"/>
+              <option value="Mesos [graduated]"/>
+              <option value="Metamodel [graduated]"/>
+              <option value="Metron [graduated]"/>
+              <option value="Mod_ftp [graduated]"/>
+              <option value="Mrql [retired]"/>
+              <option value="Mrunit [graduated]"/>
+              <option value="Mynewt [graduated]"/>
+              <option value="Netbeans [graduated]"/>
+              <option value="Nifi [graduated]"/>
+              <option value="Nmaven [retired]"/>
+              <option value="Npanday [retired]"/>
+              <option value="Nutch [graduated]"/>
+              <option value="Nuvem [graduated]"/>
+              <option value="Ode [graduated]"/>
+              <option value="Odf toolkit [retired]"/>
+              <option value="Olingo [graduated]"/>
+              <option value="Olio [retired]"/>
+              <option value="Onami [graduated]"/>
+              <option value="Oodt [graduated]"/>
+              <option value="Oozie [graduated]"/>
+              <option value="Openaz [retired]"/>
+              <option value="Openjpa [graduated]"/>
+              <option value="Openmeetings [graduated]"/>
+              <option value="Opennlp [graduated]"/>
+              <option value="Openoffice.org [graduated]"/>
+              <option value="Openwebbeans [graduated]"/>
+              <option value="Openwhisk [graduated]"/>
+              <option value="Parquet [graduated]"/>
+              <option value="Pdfbox [graduated]"/>
+              <option value="Phoenix [graduated]"/>
+              <option value="Photark [retired]"/>
+              <option value="Pig [graduated]"/>
+              <option value="Pirk [retired]"/>
+              <option value="Pivot [graduated]"/>
+              <option value="Predictionio [graduated]"/>
+              <option value="Provisionr [retired]"/>
+              <option value="Pulsar [graduated]"/>
+              <option value="Qpid [graduated]"/>
+              <option value="Quickstep [retired]"/>
+              <option value="Ranger [graduated]"/>
+              <option value="Rave [graduated]"/>
+              <option value="Reef [graduated]"/>
+              <option value="Ripple [retired]"/>
+              <option value="River [graduated]"/>
+              <option value="Rocketmq [graduated]"/>
+              <option value="Roller [graduated]"/>
+              <option value="S4 [retired]"/>
+              <option value="Samza [graduated]"/>
+              <option value="Sanselan [graduated]"/>
+              <option value="Sentry [graduated]"/>
+              <option value="Servicecomb [graduated]"/>
+              <option value="Servicemix [graduated]"/>
+              <option value="Shindig [graduated]"/>
+              <option value="Shiro [graduated]"/>
+              <option value="Sirona [retired]"/>
+              <option value="Sis [graduated]"/>
+              <option value="Skywalking [graduated]"/>
+              <option value="Slider [retired]"/>
+              <option value="Sling [graduated]"/>
+              <option value="Solr [graduated]"/>
+              <option value="Spamassassin [graduated]"/>
+              <option value="Spark [graduated]"/>
+              <option value="Sqoop [graduated]"/>
+              <option value="Stanbol [graduated]"/>
+              <option value="Stdcxx [graduated]"/>
+              <option value="Stonehenge [retired]"/>
+              <option value="Storm [graduated]"/>
+              <option value="Stratos [graduated]"/>
+              <option value="Streams [graduated]"/>
+              <option value="Syncope [graduated]"/>
+              <option value="Systemml [graduated]"/>
+              <option value="Tashi [retired]"/>
+              <option value="Tez [graduated]"/>
+              <option value="Thrift [graduated]"/>
+              <option value="Tika [graduated]"/>
+              <option value="Traffic control [graduated]"/>
+              <option value="Traffic server [graduated]"/>
+              <option value="Triplesoup [retired]"/>
+              <option value="Tuscany [graduated]"/>
+              <option value="Twill [graduated]"/>
+              <option value="Uima [graduated]"/>
+              <option value="Unomi [graduated]"/>
+              <option value="Usergrid [graduated]"/>
+              <option value="Vcl [graduated]"/>
+              <option value="Wave [retired]"/>
+              <option value="Whirr [graduated]"/>
+              <option value="Wicket [graduated]"/>
+              <option value="Xap [retired]"/>
+              <option value="Yoko [retired]"/>
+              <option value="Zeppelin [graduated]"/>
+              <option value="Zeta components [retired]"/>
+              <option value="Zipkin [retired]"/>
+            </datalist>
+    
+        </label>
+        </p>
+        <p>
+        <label>
+            
+        <a id="from"> </a> 
+        ~
+        <a id="to"> </a> 
+            
+        </label>
+        </p>
+            
+        <label>
+        Month
+        <output id="Month">1</output>
+        <input id = "MaxIncubation" type="range" min="1" max="90" value="1" step="1" oninput="getMonth();yes();d3.select('#Month').text(value); forceProperties.selected_data.month=value; updateAll();">
+        </label>
+        <br>
+        <br>
+ 
+        <label class="s_date" >Starts:
+          <a id="start"></a>
+          </label>
+ 
+        <!-- <div class="end_date"> -->
+  
+        <label class="end_date">Ends:
+             
+          <a id="end"></a>
+          </label>
+        <!-- </div> -->
+</div>
+<!-- <div class="a2 box" style="text-align:left";>
+  <p class="outset">
+    <a id="intro">About the project</a>
+  </p> 
+</div> -->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="chart_mouseover.js"></script>
+
+            <div class="b box"> 
+                
+            <header>Graduation forecast&nbsp;&nbsp;&nbsp; <small class="pro_tit">Current Project:</small>&nbsp;<small class="pro_tit" id="pro_title" ></header>
+            <br>
+            <div id="my_dataviz" ></div>
+            <script src="chart_mouseover.js"></script>
+            </div>
+</div>
+<script src="./js/d3.v4.min.js"></script>
+<div class="second_pane">
+    <div class="three">
+        <div class="c box"> 
+            <header>About the Project </header>
+
+            <p><label>Project Name: <a id="project_name" target="_blank"> </a>
+ 
+            </label>
+            <label>
+            <a id="link"> </a> 
+            </label>
+            </p>
+            <p class="outset">
+              <a id="intro">About the project</a>
+            </p> 
+             
+            <p><label>Status:
+            <a id="status"> </a>
+            </label></p>
+             
+            <p><label>Sponsor:
+            <a id="sponsor"></a>
+            </label></p>
+
+            <p><label>Mentor:
+              <a id="mentor"></a>
+              </label></p>
+            <!-- <p><label>Starts:
+            <a id="start"></a>
+            </label> -->
+             
+            <!-- <label>Ends:
+             
+            <a id="end"></a>
+            </label></p> -->
+
+
+        </div>
+        <div class="d box">
+            
+        <header>Project Reports </header>
+        <br>
+
+        <p><label>Reports Link:   
+        <a id="repo_link" target="_blank"></a>
+        </label></p>   
+        <div class="bottompane" style="border: thin solid black;overflow:auto;height:220px;width:250px;font: size 110%;resize: both;">
+            <p><output id="textss">Project Reports</output></p>
+
+        </div>
+        
+        
+        
+        </div>   
+    </div>
+
+ 
+<script src="importantUpdate.js"></script>
+<script src="./js/d3.v4.min.js"></script>
+<script src="./js/viz.v1.1.0.min.js"></script>
+<script src="https://d3js.org/d3-selection-multi.v1.js"></script>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js'></script><script  src="./script.js"></script>
+
+<script src="include.js"></script>
+<script src="d3.v3.js"></script>
+<script type='text/javascript' src='table_search.js'></script>
+<script src="tech_net.js"></script>
+<script src="edge_bud.js"></script>
+
+    <div class="four">
+      <div class="five1">
+        <div class="five">
+            <div class="s box" id="fluid"> 
+               
+                    <header>Social Network &nbsp;&nbsp;&nbsp; <small class="pro_tit">Current Project:</small>&nbsp;<small class="pro_tit" id="pro_title1"></small></header>
+                    <svg id = "middlesvg" width="700" height="400"></svg>
+                    <!-- <svg id = "middlesvg" ></svg> -->
+                  </div>
+
+            </div>
+
+
+
+
+            <div class="e box">   
+              <header>Social Network Nodes </header>
+              <br>
+              <label>Current Node:</label>
+           
+              <button href="#" id="tglr" class="popover-toggle" title="Email Thread"><span><a id="current_node"></a></span></button>
+
+              <div id="customdiv" style="display: none">
+                <div id="popover-content" class="hide">
+                <div class="popman2"></div></div>
+            
+              </div>
+
+              <!-- <div class="small_box">  
+              <button href="#" id="tglr" class="button" title="Popover Header"><span><a id="current_node"></a></span></button>
+
+              <div id="customdiv" style="display: none">
+                  <div id="popover-content" class="hide">
+                  <div class="popman"></div></div>
+                </div>
+              </div> -->
+                
+
+      
+            </div>
+            <div class="six">
+                <div class="f box"> 
+                    
+                    <h4>  <a class="i_label" id="num_emails"></a></h4>
+                    <label class="s_label"> Num of Emails
+                  </label>     </div>
+                <div class="f box"> 
+                    <h4> <a class="i_label" id="num_senders"></a></h4>
+                    <label class="s_label">Commentors
+                    </label>    
+                </div>
+                <div class="f box"> 
+                    
+                    <h4 > <a class="i_label" id="email_per_dev"></a></h4>
+                    <label class="s_label">Emails Per Dev
+                    </label>
+                </div>
+            </div>
+        </div>
+   
+      <div class="five1">
+        <div class="five">
+            <div class="s box"> 
+                
+                <header>Technical Network&nbsp;&nbsp;&nbsp; <small class="pro_tit">Current Project:</small>&nbsp;<small class="pro_tit" id="pro_title2" ></small></header>
+
+                <svg title = "Technical Network" id = "rightsvg" width="700" height="400" ></svg>
+            
+            </div>
+            <div class="e box"><header> Technical Network Nodes </header>  
+              <br>
+              <label>Current Node:</label>
+              <button href="#" id="tglr1" class="popover-toggle" title="Commit Thread"><span><a id="current_node1"></a></span></button>
+
+              <div id="customdiv1" style="display: none">
+                  <div id="popover-content1" class="hide">
+                  <div class="popman1"></div></div>
+
+              </div>
+              <!-- <div class="small_box1">  
+              <button href="#" id="tglr1" class="button" title="Popover Header"><span><a id="current_node1">HEy its working !</a></span></button>
+
+              <div id="customdiv1" style="display: none">
+                  <div id="popover-content1" class="hide">
+                  <div class="popman1"></div></div>
+                </div>
+              </div> -->
+            
+            
+            </div>
+            <div class="six">
+                <div class="f box"> 
+                    <h4><a  class="i_label" id="num_commits"></a></h4>
+                    <label class="s_label">Num of Commits
+                    </label>      </div>
+                <div class="f box"> 
+                    <h4><a  class="i_label" id="num_committers"></a></h4>
+                    <label class="s_label">Committers
+                    </label>    
+                </div>
+                <div class="f box"> 
+                    
+                    <h4><a class="i_label" id="commit_per_dev"></a></h4>
+                    <label class="s_label">Commits Per Dev</label>
+                </div>
+            </div>
+        </div>
+      </div>
+</div>
+
+</div>
+<script src="d3.v3.js"></script>
+
+<script type='text/javascript' src='table_search2.js'></script>
+
+<script type='text/javascript' src='table_search11.js'></script>
+
+</div>
+</body>

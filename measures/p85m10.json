@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Patrick Hunt)",
+    "from": "Feb 20 2013",
+    "num_senders": 2,
+    "incubation_time": 10,
+    "status": "Graduated",
+    "intro": "Crunch is a Java library for writing, testing, and running pipelines of MapReduce jobs on Apache Hadoop.",
+    "end_time": "Feb 20 2013",
+    "start_time": "May 26 2012",
+    "commit_per_dev": 0,
+    "num_commits": 0,
+    "to": "Mar 22 2013",
+    "link": "http://incubator.apache.org/projects/crunch.html",
+    "num_committers": 0,
+    "email_per_dev": 5.0,
+    "project_name": "Crunch",
+    "num_emails": 10
+}

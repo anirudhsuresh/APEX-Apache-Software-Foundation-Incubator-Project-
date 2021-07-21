@@ -1,0 +1,16 @@
+created_date,author,file
+2005-06-19T07:52:52Z,17987,locator.ent
+2005-06-19T07:52:52Z,17987,locator.path
+2005-06-19T07:52:52Z,17987,CustomNodeTypeCreationException.java
+2005-06-19T07:52:52Z,17987,RepositoryUtil.java
+2005-06-19T07:52:52Z,17987,CustomNodeTypeCreator.java
+2005-06-19T07:52:52Z,17987,JcrSession.java
+2005-06-19T07:52:52Z,17987,CustomNodeTypeCreatorImpl.java
+2005-06-19T07:52:52Z,17987,JcrSessionImpl.java
+2005-06-19T07:52:52Z,17987,TestAll.java
+2005-06-19T07:52:52Z,17987,TestBase.java
+2005-06-19T07:52:52Z,17987,RepositoryUtilTest.java
+2005-06-19T07:52:52Z,17987,JcrSessionSetupTest.java
+2005-06-19T07:52:52Z,17987,JcrSessionTest.java
+2005-06-19T07:52:52Z,17987,DocumentConverter.java
+2005-06-19T07:52:52Z,17987,FolderConverter.java

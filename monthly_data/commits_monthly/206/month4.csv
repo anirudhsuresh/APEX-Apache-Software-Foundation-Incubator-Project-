@@ -1,0 +1,11 @@
+created_date,author,file
+2013-11-06T18:39:40Z,34655,TestUriPermissions.java
+2013-11-08T14:05:39Z,11578,SolrAuthzBinding.java
+2013-11-08T14:05:39Z,11578,SimpleFileProviderBackend.java
+2013-11-11T12:17:05Z,34655,ClusterDFS.java
+2013-11-14T15:53:03Z,34655,HiveAuthzBindingHook.java
+2013-11-14T15:53:03Z,34655,TestPrivilegesAtFunctionScope.java
+2013-11-15T13:10:44Z,34655,SolrAuthzBinding.java
+2013-11-18T18:09:03Z,6949,AbstractHiveServer.java
+2013-11-18T18:09:03Z,6949,EmbeddedHiveServer.java
+2013-12-05T08:25:06Z,11578,SolrAuthzBinding.java

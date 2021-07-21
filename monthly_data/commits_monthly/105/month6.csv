@@ -1,0 +1,14 @@
+created_date,author,file
+2005-12-29T10:55:27Z,12986,format.apt
+2005-12-29T10:55:27Z,12986,index.apt
+2005-12-29T10:55:27Z,12986,osgi.apt
+2005-12-29T10:55:27Z,12986,faq.fml
+2005-12-31T11:32:38Z,15009,MyBundleActivator.java
+2005-12-31T11:44:58Z,15009,MyBundleActivator.java
+2006-01-01T01:03:46Z,15009,ReverseServerActivator.java
+2006-01-01T01:03:46Z,15009,ReverseProtocolHandler.java
+2006-01-01T12:33:20Z,15009,Activator.java
+2006-01-06T06:07:08Z,15007,Parser.java
+2006-01-13T05:55:16Z,15007,BundleImpl.java
+2006-01-13T05:55:16Z,15007,BundleInfo.java
+2006-01-13T05:55:16Z,15007,Felix.java

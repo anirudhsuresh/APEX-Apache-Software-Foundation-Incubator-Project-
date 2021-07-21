@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator (Flavio Junqueira)",
+    "from": "Dec 21 2016",
+    "num_senders": 31,
+    "incubation_time": 13,
+    "status": "Graduated",
+    "intro": "DistributedLog is a high-performance replicated log service. It offers durability, replication and strong consistency, which provides a fundamental building block for building reliable distributed systems.",
+    "end_time": "Jul 01 2017",
+    "start_time": "Jun 24 2016",
+    "commit_per_dev": 679.5,
+    "num_commits": 1359,
+    "to": "Jan 20 2017",
+    "link": "http://incubator.apache.org/projects/distributedlog.html",
+    "num_committers": 2,
+    "email_per_dev": 4.03,
+    "project_name": "DistributedLog",
+    "num_emails": 125
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Mar 03 2009",
+    "num_senders": 0,
+    "incubation_time": 50,
+    "status": "Retired",
+    "intro": "An infrastructure for cloud computing on big data.",
+    "end_time": "Oct 02 2012",
+    "start_time": "Sep 04 2008",
+    "commit_per_dev": 18.0,
+    "num_commits": 18,
+    "to": "Apr 02 2009",
+    "link": "http://incubator.apache.org/projects/tashi.html",
+    "num_committers": 1,
+    "email_per_dev": 0,
+    "project_name": "Tashi",
+    "num_emails": 0
+}

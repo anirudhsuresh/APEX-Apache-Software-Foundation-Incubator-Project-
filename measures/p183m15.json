@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Jan 17 2012",
+    "num_senders": 16,
+    "incubation_time": 15,
+    "status": "Graduated",
+    "intro": "OpenNLP is a machine learning based toolkit for the processing of natural language text.",
+    "end_time": "Feb 15 2012",
+    "start_time": "Nov 23 2010",
+    "commit_per_dev": 54.6,
+    "num_commits": 273,
+    "to": "Feb 16 2012",
+    "link": "http://incubator.apache.org/projects/opennlp.html",
+    "num_committers": 5,
+    "email_per_dev": 11.19,
+    "project_name": "OpenNLP",
+    "num_emails": 179
+}

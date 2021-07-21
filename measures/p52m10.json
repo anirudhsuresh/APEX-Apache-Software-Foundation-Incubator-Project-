@@ -1,0 +1,18 @@
+{
+    "sponsor": "Geronimo",
+    "from": "Aug 28 2006",
+    "num_senders": 53,
+    "incubation_time": 15,
+    "status": "Graduated",
+    "intro": "A robust and high performance Message Orientated Middleware provider which will be integrated into Apache Geronimo but also be usable from inside any JVM.",
+    "end_time": "Feb 06 2007",
+    "start_time": "Dec 01 2005",
+    "commit_per_dev": 282.83,
+    "num_commits": 1697,
+    "to": "Sep 27 2006",
+    "link": "http://incubator.apache.org/projects/activemq.html",
+    "num_committers": 6,
+    "email_per_dev": 3.53,
+    "project_name": "ActiveMQ",
+    "num_emails": 187
+}

@@ -1,0 +1,18 @@
+{
+    "sponsor": "Incubator",
+    "from": "Apr 25 2007",
+    "num_senders": 117,
+    "incubation_time": 10,
+    "status": "Graduated",
+    "intro": "A web application framework that focusses on bringing plain object oriented Java programming to the web tier",
+    "end_time": "Jun 20 2007",
+    "start_time": "Aug 28 2006",
+    "commit_per_dev": 79.2,
+    "num_commits": 792,
+    "to": "May 25 2007",
+    "link": "http://incubator.apache.org/projects/wicket.html",
+    "num_committers": 10,
+    "email_per_dev": 7.17,
+    "project_name": "Wicket",
+    "num_emails": 839
+}
