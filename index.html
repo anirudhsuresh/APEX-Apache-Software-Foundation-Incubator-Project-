@@ -21,39 +21,54 @@
 }   */
 body{
   background-color:teal;
+  
 }
 .main{
   background-color:teal;
   flex-wrap: wrap;
+  padding-left:5px;
   flex-flow: row wrap;
+  /*  */
+  
+  /* margin-left: 20px;; */
 }
 .box {
+  
   background-color:black;
   margin: 5px; 
   color: white;
   resize: both;
-  overflow: auto;
+  
+  flex-direction: column;
+
+  /* margin: 2px; */
   /* padding: 30px; */
 }
 
 .one {
    display: flex; 
    height: 220px;
+   
    min-height: 220px;
-
+   
+   
+/*  */
 
 }
 
 .a1 {
   flex: 1;
-
+  padding-top: 10px;
 }
 .a2 {
   flex: 1;
+  
 
 }
 .b {
   flex: 2;
+  padding-top: 10px;
+  padding-left: 10px;
 }
 
 .second_pane {
@@ -89,26 +104,36 @@ body{
 .e {
   flex: 1;
   height:102px;
+  padding: 10px;
   
 }
 
 
 .c {
   flex: 2;
-  height:310px
+  height:310px;
+  padding: 10px;
+
 }
 .d {
   flex: 2;
-  height:345px
+  height:345px;
+  padding: 10px;
 }
+
+
 .s{
     flex :2;
     min-height :380px ;
+    padding-left: 10px;
+    padding-top: 10px;
+    overflow-y:scroll;
     /* display: inline-block; */
      /* margin: 0 auto; */
 }
 .five1 {
   flex: 2;
+  
 
 }
 .five2 {
@@ -174,7 +199,7 @@ line{
         <p>
         <label>
         Project
-        
+        <!--  -->
             <input type="text" id="txt_ide" list="project_n" placeholder="Select a project here :)" oninput="myFunction();updateAll(); UpdateMaxIncubation();make_chart();"/> 
             <datalist id="project_n"> 
               <option value="Abdera [graduated]"/>
@@ -400,12 +425,15 @@ line{
             
         <label>
         Month
-        <output id="Month">1</output>
-        <input id = "MaxIncubation" type="range" min="1" max="90" value="1" step="1" oninput="getMonth();yes();d3.select('#Month').text(value); forceProperties.selected_data.month=value; updateAll();">
+        <output class ="month_name" id="Month">1</output>
+        <!-- <input id="amount" type="number" value="0" min="1" max="90" oninput="MaxIncubation.value=amount.value";getMonth();yes();forceProperties.selected_data.month=value; updateAll(); /> -->
+        <input id = "MaxIncubation" type="range" min="1" max="90" value="1" step="1" oninput="getMonth();yes();update_month_id(MaxIncubation.value); forceProperties.selected_data.month=value; updateAll();">
         </label>
         <br>
         <br>
- 
+        <script>
+          // MaxIncubation.value = 80;
+        </script>
         <label class="s_date" >Starts:
           <a id="start"></a>
           </label>
@@ -506,6 +534,7 @@ line{
 <script type='text/javascript' src='table_search.js'></script>
 <script src="tech_net.js"></script>
 <script src="edge_bud.js"></script>
+
 
     <div class="four">
       <div class="five1">
